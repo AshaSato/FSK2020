@@ -1,2 +1,2 @@
 # FSK2020
-Supplementary materials for Flaherty Sato Kirby 2020
+Data files, data processing and analysis scripts for Flaherty Sato Kirby 2020
