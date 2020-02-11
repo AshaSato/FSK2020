@@ -1,0 +1,979 @@
+Signer,Subject Info::cohort,DomHand,Stimuli::ItemNum,Stimuli::Action,Stimuli::Actor,Stimuli::Patient,Stimuli::ObjectAnimacy,Utt number,Utterance::Utterance Frame1,Utterance::Utterance last frame,Gloss,Verb number from previous coding,Verb,Target?,Verb Category,Verb Category2,First Frame,Last Frame
+27,1,right,A01,hop,woman,man,animate ,5189,565,850,2H-GCL-face-eo IX-GCL-R M no IX-GCL-L M GCL-R W GCL-R GCL-hop-to-GCL VCL-inv-hop-to-GCL ,1111,GCL-hop-to-GCL,,CL,CL,731,768
+27,1,right,A01,hop,woman,man,animate ,5189,565,850,2H-GCL-face-eo IX-GCL-R M no IX-GCL-L M GCL-R W GCL-R GCL-hop-to-GCL VCL-inv-hop-to-GCL ,1112,VCL-inv-hop-to-GCL,,CL,CL,779,807
+27,1,right,A02,jump,man,woman,inanimate,5190,1134,1355,sit M VCL-inv-hop-to-chair ,1113,VCL-inv-hop-to-chair ,,CL,CL,1278,1312
+27,1,right,A09,skip,woman,man,animate ,"5197
+",5219,5463,M VCL-inv-stand-R W VCL-inv-walk-to-VCL ,1129,VCL-inv-walk-to-VCL ,,CL,CL,5343,5422
+27,1,right,A10,run,man,woman,animate ,"5198
+",5701,5919,VCL-inv-stand-L W M VCL-inv-stand-R VCL-inv-walk-to-VCL run VCL-inv-walk-to-VCL,1130,VCL-inv-walk-to-VCL ,,CL,CL,5794,5823
+27,1,right,A10,run,man,woman,animate ,"5198
+",5701,5919,VCL-inv-stand-L W M VCL-inv-stand-R VCL-inv-walk-to-VCL run VCL-inv-walk-to-VCL,1132, VCL-inv-walk-to-VCL,,CL,CL,5858,5879
+27,1,right,A13,walk,woman,man,animate ,"5201
+",7152,7387,VCL-inc-stand-L M VCL-inv-stand-R 2H-VCL-inv-walk-to-VCL look-at-eo ,1138,2H-VCL-inv-walk-to-VCL,,CL,CL,7252,7299
+27,1,right,A14,jump,woman,man,animate,"5202
+",7623,7798,M VCL-inv-stand-R VCL-inv-stand-L VCL-inv-hop-to-VCL ,1140,VCL-inv-hop-to-VCL ,,CL,CL,7703,7774
+27,1,right,A21,walk,man,woman,animate ,"5209
+",10650,10931,VCL-inv-stand-L VCL-inv-stand-R IX-R W VCL-inv-stand-L M VCL-inv-walk-to-VCL look-at-eo,1149,VCL-inv-walk-to-VCL,,CL,CL,10817,10844
+27,1,right,A25,cycle,man,plant,inanimate,"5213
+",12516,12864,tree M cycle BCL-approach-BCL BCL-approach-BCL ,1156,BCL-approach-BCL,,CL,CL,12750,12781
+27,1,right,A25,cycle,man,plant,inanimate,"5213
+",12516,12864,tree M cycle BCL-approach-BCL BCL-approach-BCL ,1157,BCL-approach-BCL,,CL,CL,12826,12837
+27,1,right,A28,cycle,man,woman,animate ,"5216
+",13941,14209,W VCL-inv-stand-L W M cycle BCL-approch-VCL-inv,1162,BCL-approch-VCL-inv,,CL,CL,14148,14169
+27,1,right,A29,skip,woman,chair,inanimate,"5217
+",14408,14695,chair W VCL-inv-skip-to-chair.  VCL-inv-skip-to-chair ,1163,VCL-inv-skip-to-chair,,CL,CL,14488,14539
+27,1,right,A29,skip,woman,chair,inanimate,"5217
+",14408,14695,chair W VCL-inv-skip-to-chair.  VCL-inv-skip-to-chair ,1164,VCL-inv-skip-to-chair,,CL,CL,14626,14652
+27,1,right,A30,punch,man,woman,animate ,"5218
+",14936,15330,2H-VCL-inv-stand-facing VCL-inv-stand-R IX-VCL W IX-hand M 2H-VCL-inv-approach-eo punch punch-VCL-inv ,1165,2H-VCL-inv-approach-eo,,CL,CL,15178,15207
+27,1,right,A34,run,woman,plant,inanimate,"5222
+",16723,16908,tree run VCL-inv-run-to-tree ,1178,VCL-inv-run-to-tree ,,CL & other,CL,16825,16862
+27,1,right,A04,roll ball,woman,man,animate ,5192,2185,2551,table M GCL-L W GCL-R ball release-ball receive-ball ,1115,release-ball,,hand=hand,hand=hand,2436,2447
+27,1,right,A04,roll ball,woman,man,animate ,5192,2185,2551,table M GCL-L W GCL-R ball release-ball receive-ball ,1116,receive-ball ,,hand=hand,hand=hand,2470,2496
+27,1,right,A05,throw confetti,woman,man,animate,5193,2771,3117,M GCL-L VCL-inv-stand-L 1 M W VCL-inv-stand-R throw plant receive fall-over-body ,1117,throw ,,hand=hand,hand=hand,2977,2995
+27,1,right,A05,throw confetti,woman,man,animate,5193,2771,3117,M GCL-L VCL-inv-stand-L 1 M W VCL-inv-stand-R throw plant receive fall-over-body ,1118,receive ,,hand=hand,hand=hand,3040,3052
+27,1,right,A06,pull,man,woman,animate ,5194,3385,3638,M M grab IX-arm W reach pull get-pulled ,1120,grab ,,hand=hand,hand=hand,3468,3479
+27,1,right,A06,pull,man,woman,animate ,5194,3385,3638,M M grab IX-arm W reach pull get-pulled ,1121,reach,,hand=hand,hand=hand,3542,3552
+27,1,right,A06,pull,man,woman,animate ,5194,3385,3638,M M grab IX-arm W reach pull get-pulled ,1122,pull,,hand=hand,hand=hand,3553,3565
+27,1,right,A07,feed,woman,man,animate,5195,3896,4416,table bowl M VCL-inv-stand-L sit W sit 2H-GCL-face-eo 2H-VCL-inv-bent-sit-facing-eo feed get-fed ,1124,feed,,hand=hand,hand=hand,4284,4307
+27,1,right,A08,throw ball,woman,plant,inanimate,"5196
+",4658,4967,W VCL-inv-stand-R tree ball throw tree ball-approach/hit-tree fall,1126,throw,,hand=hand,hand=hand,4832,4855
+27,1,right,A11,pull,man,plant,inanimate,"5199
+",6106,6390,M tree M VCL-inv-stand tree VCL-inv-stand-tree grab pull tree tree-pull ,1133,grab,,hand=hand,hand=hand,6278,6290
+27,1,right,A11,pull,man,plant,inanimate,"5199
+",6106,6390,M tree M VCL-inv-stand tree VCL-inv-stand-tree grab pull tree tree-pull ,1134,pull,,hand=hand,hand=hand,6293,6300
+27,1,right,A15,give ball,woman,chair,inanimate,"5203
+",8043,8338,sit W VCL-inv-stand-facing VCL-inv-bent-sit give ,1141, give ,,hand=hand,hand=hand,8278,8305
+27,1,right,A16,throw ball,man,woman,animate ,"5204
+",8560,8779,W VCL-inv-stand M VCL-inv-stand throw catch ,1142,throw,,hand=hand,hand=hand,8696,8708
+27,1,right,A16,throw ball,man,woman,animate ,"5204
+",8560,8779,W VCL-inv-stand M VCL-inv-stand throw catch ,1143,catch,,hand=hand,hand=hand,8719,8739
+27,1,right,A17,push,man,chair,inanimate,"5205
+",9008,9190,sit M VCL-inv-stand push ,1144,push ,,hand=hand,hand=hand,9131,9152
+27,1,right,A18,give ball,woman,man,animate ,"5206
+",9432,9601,M VCL-inv-stand W give give-to-VCL ,1145,give,,hand=hand,hand=hand,9521,9553
+27,1,right,A19,poke,man,woman,animate ,"5207
+",9835,10018,W VCL-inv-stand-L M VCL-inv-stand-R poke get-poked,1146,poke ,,hand=hand,hand=hand,9935,9955
+27,1,right,A20,tickle,man,chair,inanimate,"5208
+",10246,10465,M VCL-inv-stand-R chair tickle ,1148,tickle ,,hand=hand,hand=hand,10374,10435
+27,1,right,A23,throw confetti,woman,chair,inanimate,"5211
+",11513,11771,chair IX-front chair W VCL-inv-stand confetti throw,1153,throw,,hand=hand,hand=hand,11728,11739
+27,1,right,A24,roll ball,woman,chair,inanimate,"5212
+",12016,12230,chair W VCL-inv-stand-R VCL-inv-crouch throw ball,1154,throw,,hand=hand,hand=hand,12181,12198
+27,1,right,A26,push,woman,man,animate,"5214
+",13100,13335,M VCL-inv-stand-L W VCL-inv-stand-R push get-pushed ,1158,push ,,hand=hand,hand=hand,13254,13259
+27,1,right,A30,punch,man,woman,animate ,"5218
+",14936,15330,2H-VCL-inv-stand-facing VCL-inv-stand-R IX-VCL W IX-hand M 2H-VCL-inv-approach-eo punch punch-VCL-inv ,1166,punch ,,hand=hand,hand=hand,15229,15238
+27,1,right,A31,feed,woman,chair,inanimate,"5219
+",15523,15754,chair scoop-food W scoop-food feed,1168,feed,,hand=hand,hand=hand,15682,15717
+27,1,right,A08,throw ball,woman,plant,inanimate,"5196
+",4658,4967,W VCL-inv-stand-R tree ball throw tree ball-approach/hit-tree fall,1127,ball-approach/hit-tree,,hand=hand & CL,CL,4897,4909
+27,1,right,A12,tap,man,woman,animate ,"5200
+",6637,6922,VCL-inv-stand-R W VCL-inv-stand-L M 2H-VCL-inv-face-eo tap-VCL-inv surround-VCL-inv body-shake ,1136,tap-VCL-inv,,hand=hand & CL,CL,6781,6815
+27,1,right,A18,give ball,woman,man,animate ,"5206
+",9432,9601,M VCL-inv-stand W give give-to-VCL ,1145.5,give-to-VCL,,hand=hand & CL,CL,9565,9573
+27,1,right,A30,punch,man,woman,animate ,"5218
+",14936,15330,2H-VCL-inv-stand-facing VCL-inv-stand-R IX-VCL W IX-hand M 2H-VCL-inv-approach-eo punch punch-VCL-inv ,1167,punch-VCL-inv ,,hand=hand & CL,CL,15262,15278
+27,1,right,A33,hop,man,chair,inanimate,"5221
+",16331,16508,chair VCL-inv-hop-to-hand  ,1170,VCL-inv-hop-to-hand,,hand=hand & CL,CL,16411,16476
+27,1,right,A35,tickle,woman,man,animate ,"5223
+",17093,17352,M VCL-inv-stand-L W VCL-inv-stand-R tickle-VCL-inv smile get-tickled smile ,1180,tickle-VCL-inv,,hand=hand & CL,CL,17227,17235
+27,1,right,A11,pull,man,plant,inanimate,"5199
+",6106,6390,M tree M VCL-inv-stand tree VCL-inv-stand-tree grab pull tree tree-pull ,1135,tree-pull,,hand=hand & hand=other,hand=hand,6340,6349
+27,1,right,A22,poke,man,plant,inanimate,"5210
+",11124,11309,tree M VCL-inv-stand-R poke-tree poke-tree ,1151,poke-tree,,hand=hand & hand=other,hand=hand,11237,11252
+27,1,right,A22,poke,man,plant,inanimate,"5210
+",11124,11309,tree M VCL-inv-stand-R poke-tree poke-tree ,1152,poke-tree,,hand=hand & hand=other,hand=hand,11266,11278
+27,1,right,A27,punch,woman,plant,inanimate,"5215
+",13510,13706,tree W punch-tree tree punch-tree,1159,punch-tree,,hand=hand & hand=other,hand=hand,13617,13636
+27,1,right,A27,punch,woman,plant,inanimate,"5215
+",13510,13706,tree W punch-tree tree punch-tree,1160,punch-tree,,hand=hand & hand=other,hand=hand,13675,13681
+27,1,right,A31,feed,woman,chair,inanimate,"5219
+",15523,15754,chair scoop-food W scoop-food feed,1167.3,scoop food,,hand=hand & hand=other,hand=hand,15617,15631
+27,1,right,A31,feed,woman,chair,inanimate,"5219
+",15523,15754,chair scoop-food W scoop-food feed,1167.4,scoop food,,hand=hand & hand=other,hand=hand,15670,15681
+27,1,right,A32,tap,man,plant,inanimate,"5220
+",15963,16118,tree M VCL-inv-stand tap-hand ,1169,tap-hand,,hand=hand & hand=other,hand=hand,16066,16096
+36,1,right,B04,run,man,woman,animate ,77,1111,1192,M body-run W stand-pose GCL-approach-body,145,GCL-approach-body,,body=body & CL,CL,1172,1179
+36,1,right,B08,skip,woman,man,animate,81,2303,2428,W body-skip M W GCL-approach-body ,150,GCL-approach-body,,body=body & CL,CL,2401,2412
+36,1,right,B15,hop,woman,man,animate ,88,4320,4437,W VCL-inv-hop M GCL? GCL-approach-body,163,GCL-approach-body,,body=body & CL,CL,4406,4422
+36,1,right,B23,cycle,man,woman,animate ,96,6581,6725,W VCL-inv-stand M cycle foot-stop B-approach-body,178,B-approach-body,,body=body & CL,CL,6702,6708
+36,1,right,B24,jump,woman,man,animate ,97,6913,7040,W VCL-inv-jump-on-hand M GCL VCL-inv-jump-to-body,180,VCL-inv-jump-to-body,,body=body & CL,CL,7010,7023
+36,1,right,B26,walk,man,woman,animate ,99,7544,7692,M VCL-inv-walk W VCL-inv-stand VCL-inv-approach-body,184.5,VCL-inv-approach-body,,body=body & CL,CL,7652,7678
+36,1,right,B10,walk,woman,plant,inanimate,83,2959,3063,W VCL-inv-walk tree tree-loc body-approach,153,VCL-inv-walk,,CL,CL,2983,3002
+36,1,right,B15,hop,woman,man,animate ,88,4320,4437,W VCL-inv-hop M GCL? GCL-approach-body,162,VCL-inv-hop,,CL,CL,4342,4369
+36,1,right,B19,hop,man,chair,inanimate,92,5480,5567,M VCL-inv-hop chair chair-loc ,169,VCL-inv-hop,,CL,CL,5515,5539
+36,1,right,B24,jump,woman,man,animate ,97,6913,7040,W VCL-inv-jump-on-hand M GCL VCL-inv-jump-to-body,179,VCL-inv-jump-on-hand,,CL,CL,6935,6954
+36,1,right,B26,walk,man,woman,animate ,99,7544,7692,M VCL-inv-walk W VCL-inv-stand VCL-inv-approach-body,183,VCL-inv-walk,,CL,CL,7567,7597
+36,1,right,B30,run,plant,woman,inanimate,103,8730,8832,body-run run body-run VCL-inv-run plant ,194,VCL-inv-run ,,CL,CL,8781,8791
+36,1,right,B32,cycle,man,plant,inanimate,105,9295,9417,M cycle plant B-approach-plant ,197,B-approach-plant,,CL,CL,9386,9403
+36,1,right,B33,push,man,chair,inanimate,106,9593,9691,M push chair chair-move,199,chair-move,,CL,CL,9667,9677
+36,1,right,B25,roll ball,woman,chair,inanimate,98,7221,7381,sit-cross-legged W roll-ball chair ball-approach-chair,182,ball-approach-chair,,CL & other,CL,7353,7360
+36,1,right,B01,give ball,woman,man,animate ,74,322,433,M hold-init perfect W take-from-side-give-ball hold/receive-ball ,141,hold/receive-ball,,hand=hand,hand=hand,410,419
+36,1,right,B03,push,man,woman,animate ,76,842,916,M punch W get-punched,142,punch,,hand=hand,hand=hand,866,873
+36,1,right,B05,pull,man,plant,inanimate,78,1393,1511,M. tree plant pull ,146,pull,,hand=hand,hand=hand,1484,1495
+36,1,right,B06,tickle,woman,man,animate,79,1705,1776,M. body-pose W tickle ,147,tickle,,hand=hand,hand=hand,1742,1762
+36,1,right,B11,throw ball,man,woman,animate,84,3235,3316,M throw W catch,155,throw,,hand=hand,hand=hand,3256,3264
+36,1,right,B11,throw ball,man,woman,animate,84,3235,3316,M throw W catch,156,catch,,hand=hand,hand=hand,3293,3301
+36,1,right,B13,tickle,man,chair,inanimate,86,3757,3855,M tickle chair chair-loc ,159,tickle,,hand=hand,hand=hand,3801,3819
+36,1,right,B14,push,woman,man,animate ,87,4037,4138,W push M get-pushed ,160,push ,,hand=hand,hand=hand,4072,4083
+36,1,right,B16,throw confetti,woman,chair,inanimate,89,4593,4723,W 2H-IX-body confetti throw chair confetti-fall-over-chair ,164,throw ,,hand=hand,hand=hand,4657,4663
+36,1,right,B18,tap,man,woman,animate ,91,5217,5297,M tap W get-tapped ,167,tap,,hand=hand,hand=hand,5246,5254
+36,1,right,B20,throw ball,woman,plant,inanimate,93,5738,5852,W ball throw-ball tree ball-hit-tree ball-go-off ,170,throw-ball,,hand=hand,hand=hand,5782,5788
+36,1,right,B21,throw confetti,woman,man,animate ,94,5991,6090,IX-body W confetti throw M confetti-fall-over-body,173,throw,,hand=hand,hand=hand,6039,6043
+36,1,right,B22,poke,man,woman,animate ,95,6257,6362,M poke W get-poked,175,poke ,,hand=hand,hand=hand,6304,6309
+36,1,right,B25,roll ball,woman,chair,inanimate,98,7221,7381,sit-cross-legged W roll-ball chair ball-approach-chair,181,roll-ball,,hand=hand,hand=hand,7307,7318
+36,1,right,B27,feed,woman,chair,inanimate,100,7870,7973,W scoop-food feed sit ,186,feed,,hand=hand,hand=hand,7918,7936
+36,1,right,B28,pull,man,woman,animate ,101,8163,8283,M grab pull W get-pulled,187.5,grab,,hand=hand,hand=hand,8190,8210
+36,1,right,B28,pull,man,woman,animate ,101,8163,8283,M pull W get-pulled,188,pull ,,hand=hand,hand=hand,8214,8223
+36,1,right,B34,feed,woman,man,animate ,107,9855,9995,table 2H-IX-body W scoop-food feed M get-fed ,201,feed ,,hand=hand,hand=hand,9933,9951
+36,1,right,B35,tap,man,plant,inanimate,108,10160,10270,M poke tree poke-tree tree-bend,203,poke,,hand=hand,hand=hand,10202,10208
+36,1,right,B35,tap,man,plant,inanimate,108,10160,10270,M poke tree poke-tree,204,poke-tree,,hand=hand,hand=hand,10240,10256
+36,1,right,B01,give ball,woman,man,animate ,74,322,433,M hold-init perfect W take-from-side-give-ball hold/receive-ball ,140,take-from-side-give-ball,,hand=hand & body=body,hand=hand,387,401
+36,1,right,B27,feed,woman,chair,inanimate,100,7870,7973,W scoop-food feed sit ,185,scoop-food,,hand=hand & hand=other,hand=hand,7906,7917
+36,1,right,B34,feed,woman,man,animate ,107,9855,9995,table 2H-IX-body W scoop-food feed M get-fed ,200,scoop-food,,hand=hand & hand=other,hand=hand,9930,9933
+36,1,right,B09,roll ball,woman,man,animate ,82,2632,2764,table W roll-ball M receive-ball ,151,roll-ball,,OCL/HCL,CL,2690,2708
+36,1,right,B09,roll ball,woman,man,animate ,82,2632,2764,table W roll-ball M receive-ball ,152,receive-ball,,OCL/HCL,CL,2740,2749
+36,1,right,B29,give ball,woman,chair,inanimate,102,8438,8555,W take-ball-from-side give-ball chair chair-loc ,190,give-ball,,OCL/HCL,CL,8496,8507
+41,1,right,A04,roll ball,woman,man,animate ,430,1447,1738,"W IX-front IX-body M 
+M IX-front IX-body W ball-init table ball roll-ball GCL-approach-body receive-ball that’s-it",621,GCL-approach-body,,body=body & CL,CL,1690,1702
+41,1,right,A01,hop,woman,man,animate ,427,307,431,M GCL-front IX-body W 2H-GCL-hop-approach,616,2H-GCL-hop-approach,,CL,CL,359,405
+41,1,right,A03,crawl,man,woman,animate ,429,1010,1169,W sit-pose M body-crawl 2H-GCL-approach-eo,619,2H-GCL-approach-eo,,CL,CL,1137,1151
+41,1,right,A09,skip,woman,man,animate ,435,4078,4239,M GCL-front IX-body body-skip VCL-inv-skip-on-hand 2H-GCL-approach,632,VCL-inv-skip-on-hand,,CL,CL,4175,4192
+41,1,right,A09,skip,woman,man,animate ,435,4078,4239,M GCL-front IX-body body-skip VCL-inv-skip-on-hand 2H-GCL-approach,633,2H-GCL-approach,,CL,CL,4213,4221
+41,1,right,A10,run,man,woman,animate ,436,4447,4579,W GCL-front IX-body M body-run 2H-GCL-approach,635,2H-GCL-approach,,CL,CL,4538,4557
+41,1,right,A13,walk,woman,man,animate ,439,5362,5473,M GCL-front W 2H-GCL-approach,640,2H-GCL-approach,,CL,CL,5419,5444
+41,1,right,A14,jump,woman,man,animate,440,5698,5817,M GCL-front 1 W 2H-GCL-hop-approach,641,2H-GCL-hop-approach,,CL,CL,5769,5790
+41,1,right,A21,walk,man,woman,animate ,447,7852,7964,W GCL-front IX-body M 2H-GCL-approach,652,2H-GCL-approach,,CL,CL,7915,7942
+41,1,right,A25,cycle,man,plant,inanimate,451,9155,9330,tree pot tree IX-body cycle 2H-GCL-approach,659,2H-GCL-approach,,CL,CL,9278,9302
+41,1,right,A28,cycle,man,woman,animate ,454,10208,10383,W VCL-inv-stand-on-hand beard cycle GCL-go-forward cycle-stop that’s-it,666,GCL-go-forward,,CL,CL,10321,10334
+41,1,right,A29,skip,woman,chair,inanimate,455,10587,10694,chair IX-front IX-body M? body-skip GCL-go-forward,669,GCL-go-forward,,CL,CL,10650,10671
+41,1,right,A33,hop,man,chair,inanimate,459,11959,10247,"chair IX-front IX-body VCL-inv-hop.
+2H-GCL-stand",678,VCL-inv-hop,,CL,CL,11998,12027
+41,1,right,A34,run,woman,plant,inanimate,460,12247,12350,tree IX-front IX-body body-run 2H-GCL-approach,680,2H-GCL-approach,,CL,CL,12314,12327
+41,1,right,A36,crawl,man,plant,inanimate,462,12835,12970,tree pot plant IX-body body-crawl 2H-GCL-approach,684,2H-GCL-approach,,CL,CL,12940,12948
+41,1,right,A02,jump,man,woman,inanimate,428,643,777,chair chair-loc VCL-inv-bent-init GCL-hop-to-chair,617,GCL-hop-to-chair,,CL & other,CL,721,754
+41,1,right,A08,throw ball,woman,plant,inanimate,434,3689,3887,IX-body W b-o-l-a ball tree pot tree throw-ball ball-go,630,ball-go,,hand=entity,other,3856,3870
+41,1,right,A22,poke,man,plant,inanimate,448,8131,8305,tree IX-front IX-body M poke tree-move poke,654,tree-move,,hand=entity,other,8238,8258
+41,1,right,A32,tap,man,plant,inanimate,458,11648,11784,tree IX-body M tap tree tree-shake tap,676,tree-shake,,hand=entity,other,11744,11752
+41,1,right,A04,roll ball,woman,man,animate ,430,1447,1738,"W IX-front IX-body M 
+M IX-front IX-body W ball-init table ball roll-ball GCL-approach-body receive-ball that’s-it",620,roll-ball,,hand=hand,hand=hand,1655,1669
+41,1,right,A04,roll ball,woman,man,animate ,430,1447,1738,"W IX-front IX-body M 
+M IX-front IX-body W ball-init table ball roll-ball GCL-approach-body receive-ball that’s-it",622,receive-ball,,hand=hand,hand=hand,1709,1716
+41,1,right,A05,throw confetti,woman,man,animate,431,2513,2718,M IX-front IX-body W ch-o-j-s confetti throw-confetti confetti-fall-over-body,623,throw-confetti,,hand=hand,hand=hand,2680,2686
+41,1,right,A06,pull,man,woman,animate ,432,2958,3100,IX-body M IX-front W IX-upper-arm grab pull ,624.5,grab,,hand=hand,hand=hand,3043,3055
+41,1,right,A06,pull,man,woman,animate ,432,2958,3100,IX-body M IX-front W IX-upper-arm grab pull ,625,pull ,,hand=hand,hand=hand,3055,3070
+41,1,right,A07,feed,woman,man,animate,433,3317,3472,IX-body W bowl scoop-food feed M get-fed ,627,feed,,hand=hand,hand=hand,3399,3409
+41,1,right,A08,throw ball,woman,plant,inanimate,434,3689,3887,IX-body W b-o-l-a ball tree pot tree throw-ball ball-go,629,throw-ball,,hand=hand,hand=hand,3835,3844
+41,1,right,A11,pull,man,plant,inanimate,437,4780,4886,tree IX-body M pull,636,pull,,hand=hand,hand=hand,4846,4861
+41,1,right,A12,tap,man,woman,animate ,438,5084,5186,W IX-body M tap get-tapped tap,637,tap,,hand=hand,hand=hand,5132,5136
+41,1,right,A12,tap,man,woman,animate ,438,5084,5186,W IX-body M tap get-tapped tap,639,tap,,hand=hand,hand=hand,5167,5172
+41,1,right,A16,throw ball,man,woman,animate ,442,6310,6450,W IX-front IX-body M ball throw-ball W catch,644,catch,,hand=hand,hand=hand,6402,6418
+41,1,right,A17,push,man,chair,inanimate,443,6623,6737,chair IX-front IX-body M push,645,push,,hand=hand,hand=hand,6692,6717
+41,1,right,A19,poke,man,woman,animate ,445,7252,7373,W IX-front IX-body M poke get-poked,648,poke,,hand=hand,hand=hand,7321,7330
+41,1,right,A20,tickle,man,chair,inanimate,446,7563,7673,chair tickle M tickle that’s-it,650,tickle,,hand=hand,hand=hand,7605,7615
+41,1,right,A20,tickle,man,chair,inanimate,446,7563,7673,chair tickle M tickle that’s-it,651,tickle,,hand=hand,hand=hand,7636,7657
+41,1,right,A22,poke,man,plant,inanimate,448,8131,8305,tree IX-front IX-body M poke tree-move poke,653,poke,,hand=hand,hand=hand,8203,8215
+41,1,right,A22,poke,man,plant,inanimate,448,8131,8305,tree IX-front IX-body M poke tree-move poke,655,poke,,hand=hand,hand=hand,8271,8285
+41,1,right,A23,throw confetti,woman,chair,inanimate,449,8486,8626,chair IX-body W confetti-dust throw,656,throw,,hand=hand,hand=hand,8595,8606
+41,1,right,A24,roll ball,woman,chair,inanimate,450,8814,8927,chair IX-front W sit ball roll-ball ,657,roll-ball ,,hand=hand,hand=hand,8892,8908
+41,1,right,A26,push,woman,man,animate,452,9502,9658,M beard M IX-front IX-body W push get-pushed push,660,push,,hand=hand,hand=hand,9593,9603
+41,1,right,A26,push,woman,man,animate,452,9502,9658,M beard M IX-front IX-body W push get-pushed push,662,push,,hand=hand,hand=hand,9631,9642
+41,1,right,A27,punch,woman,plant,inanimate,453,9837,10011,tree pot plant IX-body W punch tree punch,663,punch,,hand=hand,hand=hand,9930,9940
+41,1,right,A27,punch,woman,plant,inanimate,453,9837,10011,tree pot plant IX-body W punch tree punch,664,punch,,hand=hand,hand=hand,9980,9989
+41,1,right,A30,punch,man,woman,animate ,456,10935,11061,IX-body M IX-front W punch get-punched punch,670,punch,,hand=hand,hand=hand,10990,11002
+41,1,right,A30,punch,man,woman,animate ,456,10935,11061,IX-body M IX-front W punch get-punched punch,672,punch,,hand=hand,hand=hand,11031,11040
+41,1,right,A31,feed,woman,chair,inanimate,457,11351,11487,chair IX-front IX-body W bowl scoop-food feed,674,feed,,hand=hand,hand=hand,11434,11457
+41,1,right,A32,tap,man,plant,inanimate,458,11648,11784,tree IX-body M tap tree tree-shake tap,675,tap,,hand=hand,hand=hand,11714,11724
+41,1,right,A32,tap,man,plant,inanimate,458,11648,11784,tree IX-body M tap tree tree-shake tap,677,tap,,hand=hand,hand=hand,11762,11768
+41,1,right,A35,tickle,woman,man,animate ,461,12530,12659,M beard IX-front IX-body W tickle get-tickled tickle,681,tickle,,hand=hand,hand=hand,12599,12607
+41,1,right,A35,tickle,woman,man,animate ,461,12530,12659,M beard IX-front IX-body W tickle get-tickled tickle,683,tickle,,hand=hand,hand=hand,12631,12649
+41,1,right,A18,give ball,woman,man,animate ,444,6944,7089,M IX-front IX-body W ball give-ball receive-ball ,647,receive-ball ,,hand=hand & hand=hand,hand=hand,7043,7053
+41,1,right,A07,feed,woman,man,animate,433,3317,3472,IX-body W bowl scoop-food feed M get-fed ,626,scoop-food ,,hand=hand & hand=other,hand=hand,3397,3399
+41,1,right,A31,feed,woman,chair,inanimate,457,11351,11487,chair IX-front IX-body W bowl scoop-food feed,673,scoop-food,,hand=hand & hand=other,hand=hand,11426,11434
+41,1,right,A15,give ball,woman,chair,inanimate,441,5988,6123,chair IX-front IX-body W give-ball,642,give-ball,,OCL/HCL,CL,6057,6087
+41,1,right,A16,throw ball,man,woman,animate ,442,6310,6450,W IX-front IX-body M ball throw-ball W catch,643,throw-ball ,,OCL/HCL,CL,6380,6087
+41,1,right,A18,give ball,woman,man,animate ,444,6944,7089,M IX-front IX-body W ball give-ball receive-ball ,646,give-ball,,OCL/HCL,CL,7012,7023
+49,1,right,B01,give ball,woman,man,animate ,463,357,644,2H-GCL-approach-eo W IX-R M IX-body W hold-ball IX-ball blue ball-give M ball-receive-from-hand ball-receive,685,2H-GCL-approach-eo,no,CL,CL,371,391
+49,1,right,B02,jump,man,chair,inanimate,464,880,1013,VCL-inv-stand chair IX-front VCL-inv-jump-on-hand,689,VCL-inv-jump-on-hand,,CL,CL,976,995
+49,1,right,B04,run,man,woman,animate ,466,1665,1859,GCL-L IX-GCL W GCL-R IX-GCL M VCL-inv-run-to-GCL 2H-GCL-stand-facing,692,VCL-inv-run-to-GCL ,,CL,CL,1763,1824
+49,1,right,B07,crawl,man,woman,animate ,469,2918,3098,W chair M VCL-inv-crawl-on-hand body-crawl,697,VCL-inv-crawl-on-hand,,CL,CL,3003,3034
+49,1,right,B08,skip,woman,man,animate,470,3328,3520,GCL M GCL-L W VCL-inv-skip-to-BCL/GCL,699,VCL-inv-skip-to-BCL/GCL,,CL,CL,3422,3501
+49,1,right,B10,walk,woman,plant,inanimate,472,4231,4351,tree IX-front IX-body W GCL-walk that’s-it,702,GCL-walk ,,CL,CL,4306,4328
+49,1,right,B12,skip,woman,chair,inanimate,474,4918,5077,GCL-L W chair VCL-inv-approach-chair chair IX-R,705,VCL-inv-approach-chair,,CL,CL,4992,5043
+49,1,right,B15,hop,woman,man,animate ,477,5992,6139,GCL M IX-L W 2H-GCL-approach,710,2H-GCL-approach,,CL,CL,6061,6121
+49,1,right,B19,hop,man,chair,inanimate,481,7521,7637,IX-body M chair VCL-inv-hop-on-hand,716,VCL-inv-hop-on-hand,,CL,CL,7584,7620
+49,1,right,B23,cycle,man,woman,animate ,485,8960,9144,IX-front W IX-back cycle M cycle BCL-to-GCL,725,BCL-to-GCL,,CL,CL,9084,9124
+49,1,right,B24,jump,woman,man,animate ,486,9487,9600,IX-front M IX-L W VCL-inv-hop-to-hand/GCL,726,VCL-inv-hop-to-hand/GCL,,CL,CL,9549,9583
+49,1,right,B26,walk,man,woman,animate ,488,10161,10279,IX-front W IX-L M 2H-GCL-approach,729,2H-GCL-approach,,CL,CL,10225,10255
+49,1,right,B30,run,plant,woman,inanimate,492,11414,11557,IX-front tree IX-body W body-run 2H-GCL-approach,736,2H-GCL-approach,,CL,CL,11534,11537
+49,1,right,B32,cycle,man,plant,inanimate,494,12129,12301,IX-front tree cycle tree approach-GCL,739,approach-GCL,,CL,CL,12269,12276
+49,1,right,B20,throw ball,woman,plant,inanimate,482,7848,8000,IX-middle W IX-front tree hold throw tree ball-past-tree-wiggle,718,ball-past-tree-wiggle,,CL & other,CL,7969,7977
+49,1,right,B25,roll ball,woman,chair,inanimate,487,9789,9961,chair W chair IX-front chair ball play roll-ball ball-hit-object that’s-it,728,ball-hit-object,,CL & other,CL,9932,9938
+49,1,right,B05,pull,man,plant,inanimate,467,2084,2267,M tree IX-front GCL pull tree-bend,694,tree-bend,,hand=entity,other,2225,2249
+49,1,right,B35,tap,man,plant,inanimate,497,13222,13367,tree IX-front M poke tree tree-move,745,tree-move,,hand=entity,other,13341,13351
+49,1,right,B36,punch,woman,plant,inanimate,498,13521,13637,tree W punch tree-sway,747,tree-sway,,hand=entity,other,13608,13625
+49,1,right,B01,give ball,woman,man,animate ,463,357,644,2H-GCL-approach-eo W IX-R M IX-body W hold-ball IX-ball blue ball-give ball-init M ball-receive-from-hand ball-receive,688,ball-receive,,hand=hand,hand=hand,617,628
+49,1,right,B05,pull,man,plant,inanimate,467,2084,2267,M tree IX-front GCL pull tree-bend,693,pull,,hand=hand,hand=hand,2201,2211
+49,1,right,B06,tickle,woman,man,animate,468,2507,2692,1 M W IX-body W tickle get-tickled,695,tickle ,,hand=hand,hand=hand,2628,2642
+49,1,right,B09,roll ball,woman,man,animate ,471,3744,4008,W IX-front GCL-L M table-trace m-e-s-a ball blue W roll-ball M receive-ball ,700,roll-ball ,,hand=hand,hand=hand,3938,3955
+49,1,right,B09,roll ball,woman,man,animate ,471,3744,4008,W IX-front GCL-L M table-trace m-e-s-a ball blue W roll-ball M receive-ball ,701,receive-ball,,hand=hand,hand=hand,3975,3985
+49,1,right,B11,throw ball,man,woman,animate,473,4540,4692,M GCL-R IX-front W throw W catch,703,throw,,hand=hand,hand=hand,4640,4647
+49,1,right,B11,throw ball,man,woman,animate,473,4540,4692,M GCL-R IX-front W throw W catch,704,catch,,hand=hand,hand=hand,4661,4676
+49,1,right,B13,tickle,man,chair,inanimate,475,5257,5389,IX-front M chair blue tickle ,706,tickle ,,hand=hand,hand=hand,5345,5373
+49,1,right,B14,push,woman,man,animate ,476,5593,5764,IX-front M W IX-body M get-pushed push get-pushed,708,push ,,hand=hand,hand=hand,5721,5728
+49,1,right,B16,throw confetti,woman,chair,inanimate,478,6358,6526,IX-front W chair confetti throw confetti-fall,711,throw,,hand=hand,hand=hand,6476,6483
+49,1,right,B18,tap,man,woman,animate ,480,7124,7296,IX-L M IX-front W IX-L IX-body M tap W get-tapped,714,tap,,hand=hand,hand=hand,7242,7250
+49,1,right,B20,throw ball,woman,plant,inanimate,482,7848,8000,IX-middle W IX-front tree hold throw tree ball-past-tree-wiggle,717,throw,,hand=hand,hand=hand,7939,7946
+49,1,right,B21,throw confetti,woman,man,animate ,483,8198,8392,IX-front W IX-left M IX-front W confetti throw M confetti-fall-over-body,719,throw,,hand=hand,hand=hand,8330,8337
+49,1,right,B22,poke,man,woman,animate ,484,8574,8717,IX-front W IX-body M poke W get-poked ,721,poke,,hand=hand,hand=hand,8649,8659
+49,1,right,B25,roll ball,woman,chair,inanimate,487,9789,9961,chair W chair IX-front chair ball play roll-ball ball-hit-object that’s-it,727,roll-ball,,hand=hand,hand=hand,9899,9904
+49,1,right,B27,feed,woman,chair,inanimate,489,10476,10605,IX-front W chair-R stir-food feed,731,feed,,hand=hand,hand=hand,10565,10580
+49,1,right,B29,give ball,woman,chair,inanimate,491,11113,11227,W IX-front chair give-ball,734,give-ball,,hand=hand,hand=hand,11182,11198
+49,1,right,B33,push,man,chair,inanimate,495,12519,12650,chair IX-front IX-body M push ,740,push ,,hand=hand,hand=hand,12603,12623
+49,1,right,B34,feed,woman,man,animate ,496,12856,13038,table IX-L M IX-R W scoop-food feed M get-fed,742,feed,,hand=hand,hand=hand,12971,12984
+49,1,right,B35,tap,man,plant,inanimate,497,13222,13367,tree IX-front M poke tree tree-move,744,poke ,,hand=hand,hand=hand,13317,13329
+49,1,right,B36,punch,woman,plant,inanimate,498,13521,13637,tree W punch tree tree-sway,746,punch,,hand=hand,hand=hand,13588,13598
+49,1,right,B28,pull,man,woman,animate ,490,10809,10926,M IX-front W grab-arm get-pulled,732,grab-arm,,hand=hand & body=body,hand=hand,10870,10877
+49,1,right,B03,push,man,woman,animate ,465,1246,1402,2H-GCL-stand-facing M W 2H-GCL-stand-facing punch-GCL get-punched ,690,punch-GCL,,hand=hand & CL,CL,1359,1370
+49,1,right,B01,give ball,woman,man,animate ,463,357,644,2H-GCL-approach-eo W IX-R M IX-body W hold-ball IX-ball blue ball-give ball-init M ball-receive-from-hand ball-receive,687,ball-receive-from-hand,,hand=hand & hand=hand,hand=hand,603,613
+49,1,right,B27,feed,woman,chair,inanimate,489,10476,10605,IX-front W chair-R stir-food feed,730,stir-food,,hand=hand & hand=other,hand=hand,10544,10563
+49,1,right,B34,feed,woman,man,animate ,496,12856,13038,table IX-L M IX-R W scoop-food feed M get-fed,741,scoop-food,,hand=hand & hand=other,hand=hand,12957,12969
+49,1,right,B01,give ball,woman,man,animate ,463,357,644,2H-GCL-approach-eo W IX-R M IX-body W hold-ball IX-ball blue ball-give M ball-receive-from-hand ball-receive,686,ball-give,,OCL/HCL,CL,566,576
+191,1,left,B12,skip,woman,chair,inanimate,121,4324,4461,W VCL-inv-skip-on-hand stand-pose sit,131,VCL-inv-skip-on-hand,,CL,CL,4350,4384
+191,1,left,B14,push,woman,man,animate ,123,4880,5018,IX-body W GCL-approach M pose push body-get-pushed,134,GCL-approach,,CL,CL,4915,4926
+191,1,left,B15,hop,woman,man,animate ,124,5208,5356,IX-body M GCL-approach-init W GCL-approach VCL-inv-hop GCL-approach ,137,GCL-approach-init,,CL,CL,5247,5251
+191,1,left,B15,hop,woman,man,animate ,124,5208,5356,IX-body M GCL-approach-init W GCL-approach VCL-inv-hop GCL-approach ,138,GCL-approach,,CL,CL,5273,5279
+191,1,left,B15,hop,woman,man,animate ,124,5208,5356,IX-body M GCL-approach-init W GCL-approach VCL-inv-hop GCL-approach ,139,VCL-inv-hop,,CL,CL,5289,5300
+191,1,left,B15,hop,woman,man,animate ,124,5208,5356,IX-body M GCL-approach-init W GCL-approach VCL-inv-hop GCL-approach ,140.5,GCL-approach,,CL,CL,5310,5333
+191,1,left,B18,tap,man,woman,animate ,127,6172,6306,GCL-approach IX-body M GCL-approach W tap ,144.5,GCL-approach,,CL,CL,6183,6196
+191,1,left,B18,tap,man,woman,animate ,127,6172,6306,GCL-approach IX-body M GCL-approach W tap ,145.5,GCL-approach,,CL,CL,6234,6238
+191,1,left,B19,hop,man,chair,inanimate,128,6528,6653,M chair IX-front VCL-inv-hop-on-hand ,147.5,VCL-inv-hop-on-hand ,,CL,CL,6597,6635
+191,1,left,B21,throw confetti,woman,man,animate ,130,7195,7369,GCL-approach M GCL IX-body W hold-confetti throw paper throw ,149.5,GCL-approach,,CL,CL,7213,7222
+191,1,left,B22,poke,man,woman,animate ,131,7553,7662,IX-body GCL-approach W M poke,152.5,GCL-approach,,CL,CL,7572,7582
+191,1,left,B24,jump,woman,man,animate ,133,8199,8321,IX-body M GCL GCL-approach-init VCL-inv-jump GCL-approach,156.5,VCL-inv-jump,,CL,CL,8256,8275
+191,1,left,B24,jump,woman,man,animate ,133,8199,8321,IX-body M GCL GCL-approach-init VCL-inv-jump GCL-approach,157.5,GCL-approach,,CL,CL,8284,8293
+191,1,left,B26,walk,man,woman,animate ,135,8896,9026,IX-body W GCL-approach head-nod-pose that’s-it,159.5,GCL-approach,,CL,CL,8941,8959
+191,1,left,B02,jump,man,chair,inanimate,111,1042,1176, M VCL-inv-stand-on-hand VCL-inv-jump stand-pose,210,VCL-inv-jump,,CL,CL,1076,1112
+191,1,left,B04,run,man,woman,animate ,113,1698,1842,1 W 1 M GCL-approach body-run GCL-approach,213,GCL-approach,,CL,CL,1757,1769
+191,1,left,B06,tickle,woman,man,animate,115,2290,2410,GCL-approach IX-body W tickle,218,GCL-approach,no,CL,CL,2310,2317
+191,1,left,B08,skip,woman,man,animate,117,2979,3123,M GCL W GCL-approach-GCL VCL-inv-init GCL-approach ,221,GCL-approach-GCL,,CL,CL,3031,3036
+191,1,left,B08,skip,woman,man,animate,117,2979,3123,M GCL W GCL-approach-GCL VCL-inv-init GCL-approach-GCL ,223,GCL-approach-GCL,,CL,CL,3061,3086
+191,1,left,B10,walk,woman,plant,inanimate,119,3669,3808,IX-body VCL-inv-walk tree VCL-inv-walk stand-facing-pose ,226,VCL-inv-walk ,,CL,CL,3691,3701
+191,1,left,B10,walk,woman,plant,inanimate,119,3669,3808,IX-body VCL-inv-walk tree VCL-inv-walk stand-facing-pose ,227,VCL-inv-walk,,CL,CL,3744,3746
+191,1,left,B11,throw ball,man,woman,animate,120,3968,4126,GCL-approach M throw-ball W receive-ball ,228,GCL-approach,,CL,CL,3982,3991
+191,1,left,B31,tap,man,plant,inanimate,140,10706,10884,tree M tree IX-body tap tree-sway tap tree-sway tap,167.5,tree-sway,,hand=entity,other,10797,10816
+191,1,left,B31,tap,man,plant,inanimate,140,10706,10884,tree M tree IX-body tap tree-sway tap tree-sway tap,169.5,tree-sway,,hand=entity,other,10832,10855
+191,1,left,B35,tap,man,plant,inanimate,144,12407,12570,M tree poke tree-sway poke,180.5,tree-sway,,hand=entity,other,12493,12519
+191,1,left,B36,punch,woman,plant,inanimate,145,12731,12852,W punch tree-bend question-nm tree ,183.5,tree-bend,,hand=entity,other,12792,12810
+191,1,left,B13,tickle,man,chair,inanimate,122,4068,4720,M chair IX-front? tickle ,133,tickle ,,hand=hand,hand=hand,4662,4699
+191,1,left,B14,push,woman,man,animate ,123,4880,5018,IX-body W GCL-approach M pose push body-get-pushed,135,push,,hand=hand,hand=hand,4959,4963
+191,1,left,B16,throw confetti,woman,chair,inanimate,125,5535,5673,IX-body W sit hold throw confetti-fall ,141.5,throw,,hand=hand,hand=hand,5621,5631
+191,1,left,B18,tap,man,woman,animate ,127,6172,6306,GCL-approach IX-body M GCL-approach W tap ,146.5,tap ,,hand=hand,hand=hand,6271,6281
+191,1,left,B21,throw confetti,woman,man,animate ,130,7195,7369,GCL-approach M GCL IX-body W hold-confetti throw paper throw ,150.5,throw,,hand=hand,hand=hand,7301,7311
+191,1,left,B21,throw confetti,woman,man,animate ,130,7195,7369,GCL-approach M GCL IX-body W hold-confetti throw paper throw ,151.5,throw,,hand=hand,hand=hand,7341,7351
+191,1,left,B22,poke,man,woman,animate ,131,7553,7662,IX-body GCL-approach W M poke,153.5,poke,,hand=hand,hand=hand,7628,7638
+191,1,left,B25,roll ball,woman,chair,inanimate,134,8503,8670,W sit IX-leg sit roll,158.5,roll,,hand=hand,hand=hand,8636,8650
+191,1,left,B27,feed,woman,chair,inanimate,136,9256,9481,W IX-body chair IX-front chair IX-body scoop-food bad? no-one nothing feed I-dunno,161.5,feed,,hand=hand,hand=hand,9416,9432
+191,1,left,B28,pull,man,woman,animate ,137,9662,9807,IX-body W stand-pose M grab pull get-pulled ,162.5,grab,,hand=hand,hand=hand,9730,9744
+191,1,left,B28,pull,man,woman,animate ,137,9662,9807,IX-body W stand-pose M grab pull get-pulled ,162.6,pull,,hand=hand,hand=hand,9745,9752
+191,1,left,B31,tap,man,plant,inanimate,140,10706,10884,tree M tree IX-body tap tree sway tap tree-sway tap,166.5,tap ,,hand=hand,hand=hand,10774,10781
+191,1,left,B31,tap,man,plant,inanimate,140,10706,10884,tree M tree IX-body tap tree-sway tap tree-sway tap,168.5,tap ,,hand=hand,hand=hand,10820,10828
+191,1,left,B31,tap,man,plant,inanimate,140,10706,10884,tree M tree IX-body tap tree-sway tap tree-sway tap,170.5,tap,,hand=hand,hand=hand,10859,10869
+191,1,left,B33,push,man,chair,inanimate,142,11681,11819,M push chair push,173.5,push,,hand=hand,hand=hand,11739,11755
+191,1,left,B33,push,man,chair,inanimate,142,11681,11819,M push chair push,174.5,push,,hand=hand,hand=hand,11785,11801
+191,1,left,B34,feed,woman,man,animate ,143,12001,12245,table IX-body sit chair-loc M 2H-chair-loc IX-body chair-loc scoop-food feed IX-body feed ,176.5,feed,,hand=hand,hand=hand,12167,12181
+191,1,left,B34,feed,woman,man,animate ,143,12001,12245,table IX-body sit chair-loc M 2H-chair-loc IX-body chair-loc scoop-food feed IX-body feed ,177.5,feed,,hand=hand,hand=hand,12204,12223
+191,1,left,B35,tap,man,plant,inanimate,144,12407,12570,M tree poke tree-sway poke,179.5,poke ,,hand=hand,hand=hand,12466,12478
+191,1,left,B35,tap,man,plant,inanimate,144,12407,12570,M tree poke tree-sway poke,181.5,poke,,hand=hand,hand=hand,12536,12544
+191,1,left,B36,punch,woman,plant,inanimate,145,12731,12852,W punch tree-bend question-nm tree ,182.5,punch,,hand=hand,hand=hand,12777,12784
+191,1,left,B03,push,man,woman,animate ,112,1356,1496,2H-GCL-stand-facing W IX-to-RH punch receive-contact ,211,punch,,hand=hand,hand=hand,1444,1454
+191,1,left,B05,pull,man,plant,inanimate,114,2009,2135,M plant grab pull ,216,grab,,hand=hand,hand=hand,2082,2099
+191,1,left,B05,pull,man,plant,inanimate,114,2009,2135,M plant grab pull ,217,pull,,hand=hand,hand=hand,2099,2109
+191,1,left,B06,tickle,woman,man,animate,115,2290,2410,GCL-approach IX-body W tickle,219,tickle,,hand=hand,hand=hand,2359,2385
+191,1,left,B09,roll ball,woman,man,animate ,118,3325,3471,table W roll-ball GCL M ,225,roll-ball,,hand=hand,hand=hand,3408,3419
+191,1,left,B11,throw ball,man,woman,animate,120,3968,4126,GCL-approach M throw-ball W receive-ball ,229,throw-ball,,hand=hand,hand=hand,4034,4052
+191,1,left,B11,throw ball,man,woman,animate,120,3968,4126,GCL-approach M throw-ball W receive-ball ,230,receive-ball ,,hand=hand,hand=hand,4087,4097
+191,1,left,B27,feed,woman,chair,inanimate,136,9256,9481,W IX-body chair IX-front chair IX-body scoop-food bad? no-one nothing feed I-dunno,160.25,scoop-food,,hand=hand & hand=other,hand=hand,9352,9359
+191,1,left,B27,feed,woman,chair,inanimate,136,9256,9481,W IX-body chair IX-front chair IX-body scoop-food bad? no-one nothing scoop-food feed I-dunno,160.5,scoop-food,,hand=hand & hand=other,hand=hand,9412,9416
+191,1,left,B34,feed,woman,man,animate ,143,12001,12245,table IX-body sit chair-loc M 2H-chair-loc IX-body chair-loc scoop-food feed IX-body feed ,175.5,scoop-food,,hand=hand & hand=other,hand=hand,12156,12166
+191,1,left,B01,give ball,woman,man,animate ,110,586,767,ball-init person W ball-give GCL-approach M,208,ball-give,,OCL/HCL,CL,676,708
+200,1,right,B04,run,man,woman,animate ,149,1529,1745,W VCL-inv-stand-on-hand M look-forward M body-run W GCL-approach-body/GCL,195.5,GCL-approach-body/GCL,,body=body & CL,CL,1703,1719
+200,1,right,B17,crawl,man,plant,inanimate,162,7324,7539,floor tree pot-loc plant M look-at body-crawl tree-approach-face ,238,tree-approach-face ,,body=body & CL,CL,7498,7511
+200,1,right,B07,crawl,man,woman,animate ,152,2702,2957,W floor sit-pose M look-forward body-crawl W sit-pose GCL-approach,208.5,GCL-approach,,CL,CL,2925,2937
+200,1,right,B08,skip,woman,man,animate,153,3191,3392,M VCL-inv-stand-on-hand look-forward W look-forward body-skip GCL-approach,212.5,GCL-approach,,CL,CL,3357,3365
+200,1,right,B10,walk,woman,plant,inanimate,155,4055,4255,tree look-forward plant W VCL-inv-walk tree GCL-approach-tree,217.5,GCL-approach-tree,no,CL,CL,4214,4226
+200,1,right,B15,hop,woman,man,animate ,160,6376,6598,M VCL-inv-stand-on-hand W 2H-GCL-stand-facing W look-at body-hop GCL-approach,231,GCL-approach,,CL,CL,6548,6574
+200,1,right,B23,cycle,man,woman,animate ,168,9967,10227,W VCL-inv-stand-on-hand IX-away M body-cycle W GCL body-cycle GCL GCL-approach,261,GCL-approach,,CL,CL,10167,10195
+200,1,right,B25,roll ball,woman,chair,inanimate,170,10817,11054,chair stay W IX-legs crossed-legs ball roll-ball ball ball-go hit-chair-init chair hit-chair ,265,hit-chair ,,CL,CL,11026,11033
+200,1,right,B26,walk,man,woman,animate ,171,11264,11467,W VCL-inv-stand-on-hand M 2H-GCL M VCL-inv-walk GCL-approach,267,VCL-inv-walk ,,CL,CL,11374,11405
+200,1,right,B26,walk,man,woman,animate ,171,11264,11467,W VCL-inv-stand-on-hand M 2H-GCL M VCL-inv-walk GCL-approach,268,GCL-approach,,CL,CL,11421,11439
+200,1,right,B20,throw ball,woman,plant,inanimate,165,8637,8866,tree plant W VCL-inv-stand-on-hand look-at ball throw throw plant-sway fall throw plant-sway fall ,247,plant-sway,,hand=entity,other,8791,8811
+200,1,right,B20,throw ball,woman,plant,inanimate,165,8637,8866,tree plant W VCL-inv-stand-on-hand look-at ball throw plant-sway fall ,248,fall,,hand=entity,other,8811,8816
+200,1,right,B20,throw ball,woman,plant,inanimate,165,8637,8866,tree plant W VCL-inv-stand-on-hand look-at ball throw throw plant-sway fall plant-sway fall ,249,plant-sway,,hand=entity,other,8825,8843
+200,1,right,B20,throw ball,woman,plant,inanimate,165,8637,8866,tree plant W VCL-inv-stand-on-hand look-at ball throw throw plant-sway fall plant-sway fall ,250,fall ,,hand=entity,other,8844,8852
+200,1,right,B36,punch,woman,plant,inanimate,181,15018,15199,tree W look punch tree punch-tree tree-bend punch,289,tree-bend,,hand=entity,other,15147,15156
+200,1,right,B03,push,man,woman,animate ,148,1169,1338,W VCL-in-stand-on-hand M 2H-look-at-eo punch W get-punched,191.5,punch,,hand=hand,hand=hand,1285,1290
+200,1,right,B05,pull,man,plant,inanimate,150,1953,2124,tree look-forward M look-forward grab pull tree pull wiggle ,198.5,grab,,hand=hand,hand=hand,2039,2052
+200,1,right,B05,pull,man,plant,inanimate,150,1953,2124,tree look-forward M look-forward grab pull tree pull wiggle ,199.5,pull,,hand=hand,hand=hand,2052,2059
+200,1,right,B05,pull,man,plant,inanimate,150,1953,2124,tree look-forward M look-forward grab pull tree pull wiggle ,200.5,pull,,hand=hand,hand=hand,2074,2081
+200,1,right,B05,pull,man,plant,inanimate,150,1953,2124,tree look-forward M look-forward grab pull tree pull wiggle ,201.5,wiggle,,hand=hand,hand=hand,2081,2104
+200,1,right,B06,tickle,woman,man,animate,151,2313,2493,M VCL-inv-stand-on-hand W look-forward tickle M get-tickled tickle ,203.5,tickle,,hand=hand,hand=hand,2421,2427
+200,1,right,B06,tickle,woman,man,animate,151,2313,2493,M VCL-inv-stand-on-hand W look-forward tickle M get-tickled tickle ,205.5,tickle,,hand=hand,hand=hand,2466,2480
+200,1,right,B09,roll ball,woman,man,animate ,154,3592,3826,table M 2H-VCL-inv-stand W 2H-VCL-inv-stand W roll-ball receive-ball ,213.5,roll-ball,,hand=hand,hand=hand,3763,3772
+200,1,right,B09,roll ball,woman,man,animate ,154,3592,3826,table M 2H-VCL-inv-stand W 2H-VCL-inv-stand W roll-ball receive-ball ,214.5,receive-ball ,,hand=hand,hand=hand,3790,3804
+200,1,right,B11,throw ball,man,woman,animate,156,4449,4653,M ball W look-forward M throw-ball W catch,220.5,throw-ball,,hand=hand,hand=hand,4588,4593
+200,1,right,B11,throw ball,man,woman,animate,156,4449,4653,M ball W look-forward M throw-ball W catch,221.5,catch,,hand=hand,hand=hand,4613,4626
+200,1,right,B13,tickle,man,chair,inanimate,158,5595,5753,chair table that’s-all chair M look-at tickle that’s-it,225.5,tickle,,hand=hand,hand=hand,5714,5736
+200,1,right,B14,push,woman,man,animate ,159,5968,6122,M VCL-inv-stand-on-hand W look-at stand-pose push get-pushed,227.5,push,,hand=hand,hand=hand,6070,6080
+200,1,right,B16,throw confetti,woman,chair,inanimate,161,6824,7060,sit chair-loc stay W W look-at+base-hand chair look-init W look-at confetti-hold dust throw confetti-fall,234,throw,,hand=hand,hand=hand,7009,7015
+200,1,right,B18,tap,man,woman,animate ,163,7758,7923,W VCL-in-stand-on-hand M VCL-in-stand-on-hand M tap get-tapped-init W get-tapped,239,tap,,hand=hand,hand=hand,7860,7865
+200,1,right,B20,throw ball,woman,plant,inanimate,165,8637,8866,tree plant W VCL-inv-stand-on-hand look-at ball throw plant-sway fall ,246,throw,,hand=hand,hand=hand,8761,8767
+200,1,right,B21,throw confetti,woman,man,animate ,166,9093,9304,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand 2H-GCL-facing confetti throw fall fall-over-body fall,251,throw,,hand=hand,hand=hand,9228,9234
+200,1,right,B21,throw confetti,woman,man,animate ,166,9093,9304,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand 2H-GCL-facing confetti throw fall fall-over-body fall,255,fall,,hand=hand,hand=hand,9274,9290
+200,1,right,B22,poke,man,woman,animate ,167,9481,9613,M look W pose M poke get-poked,257,poke ,,hand=hand,hand=hand,9570,9575
+200,1,right,B25,roll ball,woman,chair,inanimate,170,10817,11054,chair stay W IX-legs crossed-legs ball roll-ball ball-go chair hit-chair ,263,roll-ball,,hand=hand,hand=hand,10940,10947
+200,1,right,B27,feed,woman,chair,inanimate,172,11659,11826,chair chair-loc W VCL-inv-stand-on-hand bowl scoop-food feed that’s-it,270,scoop-food,,hand=hand,hand=hand,11767,11775
+200,1,right,B27,feed,woman,chair,inanimate,172,11659,11826,chair chair-loc W VCL-inv-stand-on-hand bowl scoop-food feed that’s-it,271,feed,,hand=hand,hand=hand,11775,11797
+200,1,right,B28,pull,man,woman,animate ,173,12040,12229,M look W VCL-inv-stand-on-hand M grab pull get-pulled ,272,grab,,hand=hand,hand=hand,12146,12157
+200,1,right,B28,pull,man,woman,animate ,173,12040,12229,M look W VCL-inv-stand-on-hand M grab pull get-pulled ,273,pull,,hand=hand,hand=hand,12157,12164
+200,1,right,B29,give ball,woman,chair,inanimate,174,12394,12521,sit IX-front W VCL-inv-stand-on-hand ball give that’s-it,275,give,,hand=hand,hand=hand,12474,12492
+200,1,right,B31,tap,man,plant,inanimate,176,13035,13190,tree M look tap tree-flap tap,279.5,tap,,hand=hand,hand=hand,13106,13121
+200,1,right,B31,tap,man,plant,inanimate,176,13035,13190,tree M look tap tree-flap tap,279.75,tap,,hand=hand,hand=hand,13175,13178
+200,1,right,B33,push,man,chair,inanimate,178,13883,14045,chair M look chair push,280.2,push,,hand=hand,hand=hand,13982,14012
+200,1,right,B35,tap,man,plant,inanimate,180,14643,14857,tree M look tree poke tree-bend that’s-it,284,poke,,hand=hand,hand=hand,14771,14781
+200,1,right,B36,punch,woman,plant,inanimate,181,15018,15199,tree W look punch tree punch-tree tree-bend punch,287,punch,,hand=hand,hand=hand,15106,15114
+200,1,right,B36,punch,woman,plant,inanimate,181,15018,15199,tree W look punch tree punch-tree tree-bend punch,290,punch,,hand=hand,hand=hand,15180,15185
+200,1,right,B30,run,plant,woman,inanimate,175,12689,12859,tree W VCL-inv-stand-on-hand body-run GCL-approach-init tree tree-approach-GCL,278,tree-approach-GCL,,hand=hand & CL,CL,12816,12823
+200,1,right,B31,tap,man,plant,inanimate,176,13035,13190,tree M look tap tree-flap tap,279.6,tree-flap,,hand=hand & CL,CL,13131,13167
+200,1,right,B34,feed,woman,man,animate ,179,14236,14451,table M VCL-inv-stand W sit? M VCL-inv-stand bowl scoop-food feed get-fed,280.3,scoop-food,,hand=hand & hand=other,hand=hand,14378,14385
+200,1,right,B34,feed,woman,man,animate ,179,14236,14451,table M VCL-inv-stand W sit? M VCL-inv-stand bowl scoop-food feed get-fed,281,feed ,,hand=hand & hand=other,hand=hand,14385,14396
+200,1,right,B35,tap,man,plant,inanimate,180,14643,14857,tree M look tree poke tree-bend that’s-it,285,tree-bend ,,hand=hand & hand=other,hand=hand,14797,14819
+200,1,right,B36,punch,woman,plant,inanimate,181,15018,15199,tree W look punch tree punch-tree tree-bend punch,288,punch-tree,,hand=hand & hand=other,hand=hand,15131,15140
+200,1,right,B01,give ball,woman,man,animate ,146,436,637,M W 2H-VCL-inv-stand-facing W give-ball W-init M receive-ball ,186.5,give-ball,,OCL/HCL,CL,551,571
+200,1,right,B01,give ball,woman,man,animate ,146,436,637,M W 2H-VCL-inv-stand-facing W give-ball W-init M receive-ball ,187,receive-ball,,OCL/HCL,CL,603,619
+215,1,question,A09,skip,woman,man,animate ,5053,3280,3430,M VCL-inv-stand other W VCL-inv-skip M UCL-approach-face,0,UCL-approach-face,,body=body & CL,CL,3411,3412
+215,1,question,A28,cycle,man,woman,animate ,5072,9336,9475,IX-body W VCL-inv-stand M cycle cycle-stop GCL-approach-body that’s-it,868,GCL-approach-body,,body=body & CL,CL,9434,9444
+215,1,question,A01,hop,woman,man,animate ,5045,425,606,IX-body M VCL-inv-stand M other W VCL-inv-hop-to-VCL look-at-eo,809,VCL-inv-hop-to-VCL,,CL,CL,541,570
+215,1,question,A02,jump,man,woman,inanimate,5046,856,970,IX-L sit stay M VCL-inv-hop that’s-it,811,VCL-inv-hop,,CL,CL,918,935
+215,1,question,A09,skip,woman,man,animate ,5053,3280,3430,M VCL-inv-stand other W VCL-inv-skip M UCL-approach-face,825,VCL-inv-skip,,CL,CL,3349,3392
+215,1,question,A13,walk,woman,man,animate ,5057,4543,4663,M VCL-inv-stand other W VCL-inv-walk 2H-VCL-approach-eo,834,VCL-inv-walk,,CL,CL,4607,4621
+215,1,question,A13,walk,woman,man,animate ,5057,4543,4663,M VCL-inv-stand other W VCL-inv-walk 2H-VCL-approach-eo,835,2H-VCL-approach-eo,,CL,CL,4631,4639
+215,1,question,A14,jump,woman,man,animate,5058,4843,4967,IX-body M other W VCL-inv-jump-on-hand 2H-GCL-face-eo,836,VCL-inv-jump-on-hand ,,CL,CL,4899,4925
+215,1,question,A21,walk,man,woman,animate ,5065,7089,7204,W VCL-inv-stand M IX-body VCL-inv-walk 2H-GCL-approach that’s-it ,849,VCL-inv-walk,,CL,CL,7142,7160
+215,1,question,A21,walk,man,woman,animate ,5065,7089,7204,W VCL-inv-stand M IX-body VCL-inv-walk 2H-GCL-approach that’s-it ,850,2H-GCL-approach,,CL,CL,7171,7177
+215,1,question,A25,cycle,man,plant,inanimate,5069,8329,8489,tree other IX-body M cycle cycle-stop tree GCL-init igual 2H-GCL-approach cycle-stop that’s-it,860,2H-GCL-approach,,CL,CL,8445,8454
+215,1,question,A33,hop,man,chair,inanimate,5077,10808,10906,chair other M VCL-inv-hop that’s-it?,878,VCL-inv-hop,,CL,CL,10850,10883
+215,1,question,A27,punch,woman,plant,inanimate,5071,8942,9043,tree W punch tree punch-tree tree-wave,865,tree-wave,,hand=entity,other,9013,9031
+215,1,question,A32,tap,man,plant,inanimate,5076,10519,10627,tree other tap tree tap-tree tree-wave that’s-it,877,tree-wave,,hand=entity,other,10600,10611
+215,1,question,A08,throw ball,woman,plant,inanimate,5052,2937,3067,tree other W throw tree ball-go-over-tree,824,ball-go-over-tree,,hand=entity & hand=entity,other,3046,3057
+215,1,question,A24,roll ball,woman,chair,inanimate,5068,7938,8096,chair other sit floor roll-ball ball-go ball-hit-object that’s-it,858,ball-hit-object,,hand=entity & hand=entity,other,8060,8067
+215,1,question,A04,roll ball,woman,man,animate ,5048,1569,1729,table IX-body W move-ball M receive-ball that’s-it,814,"move-ball 
+",,hand=hand,hand=hand,1653,1663
+215,1,question,A04,roll ball,woman,man,animate ,5048,1569,1729,table IX-body W move-ball M receive-ball that’s-it,815,"receive-ball
+",,hand=hand,hand=hand,1683,1699
+215,1,question,A05,throw confetti,woman,man,animate,5049,1922,2102,VCL-inv-stand M W other W confetti throw-confetti M confetti-fall-over-body,816,"throw-confetti
+",,hand=hand,hand=hand,2056,2061
+215,1,question,A06,pull,man,woman,animate ,5050,2298,2436,W VCL-inv-stand W M grab pull W get-pulled,818,grab,,hand=hand,hand=hand,2365,2378
+215,1,question,A06,pull,man,woman,animate ,5050,2298,2436,W VCL-inv-stand W M grab pull W get-pulled,819,pull,,hand=hand,hand=hand,2379,2384
+215,1,question,A07,feed,woman,man,animate,5051,2626,2780,table chair W feed M get-fed that’s-it,821,feed,,hand=hand,hand=hand,2707,2717
+215,1,question,A08,throw ball,woman,plant,inanimate,5052,2937,3067,tree other W throw tree ball-go-over-tree,823,throw,,hand=hand,hand=hand,3015,3023
+215,1,question,A11,pull,man,plant,inanimate,5055,3911,4059,tree tree-loc other M grab pull tree pull-tree,829,grab,,hand=hand,hand=hand,3965,3981
+215,1,question,A11,pull,man,plant,inanimate,5055,3911,4059,tree tree-loc other M grab pull tree pull-tree,830,pull,,hand=hand,hand=hand,3984,4002
+215,1,question,A12,tap,man,woman,animate ,5056,4234,4367,M W VCL-inv-stand M tap W get-tapped,832,tap,,hand=hand,hand=hand,4316,4322
+215,1,question,A15,give ball,woman,chair,inanimate,5059,5120,5245,chair other W play give-ball that’s-it,837,give-ball,,hand=hand,hand=hand,5192,5207
+215,1,question,A16,throw ball,man,woman,animate ,5060,5401,5751,"IX-body W other M throw W catch.
+Sorry.
+ball-to-hand GCL m other IX-body W IX-L M throw W catch",838,throw,,hand=hand,hand=hand,5469,5476
+215,1,question,A16,throw ball,man,woman,animate ,5060,5401,5751,"IX-body W other M throw W catch.
+Sorry.
+ball-to-hand GCL m other IX-body W IX-L M throw W catch",839,catch,,hand=hand,hand=hand,5496,5506
+215,1,question,A16,throw ball,man,woman,animate ,5060,5401,5751,"IX-body W other M throw W catch.
+Sorry.
+ball-to-hand GCL m other IX-body W IX-L M throw W catch",840,throw,,hand=hand,hand=hand,5668,5675
+215,1,question,A16,throw ball,man,woman,animate ,5060,5401,5751,"IX-body W other M throw W catch.
+Sorry.
+ball-to-hand GCL m other IX-body W IX-L M throw W catch",841,catch,,hand=hand,hand=hand,5701,5716
+215,1,question,A17,push,man,chair,inanimate,5061,5932,6025,chair other M push ,842,push,,hand=hand,hand=hand,5984,5998
+215,1,question,A18,give ball,woman,man,animate ,5062,6218,6350,IX-front M other W give M receive ,843,give,,hand=hand,hand=hand,6268,6280
+215,1,question,A18,give ball,woman,man,animate ,5062,6218,6350,IX-front M other W give M receive ,844,receive ,,hand=hand,hand=hand,6306,6320
+215,1,question,A19,poke,man,woman,animate ,5063,6518,6669,IX-body M W M? M poke W get-poked W get-poked ,845,poke,,hand=hand,hand=hand,6593,6597
+215,1,question,A20,tickle,man,chair,inanimate,5064,6820,6918,chair other M tickle ,848,tickle,,hand=hand,hand=hand,6882,6904
+215,1,question,A22,poke,man,plant,inanimate,5066,7323,7438,tree M poke tree poke-tree poke,851,poke ,,hand=hand,hand=hand,7372,7382
+215,1,question,A22,poke,man,plant,inanimate,5066,7323,7438,tree M poke tree poke-tree poke,853,poke,,hand=hand,hand=hand,7414,7428
+215,1,question,A23,throw confetti,woman,chair,inanimate,5067,7613,7750,chair other W confetti paper throw confetti-fall ,854,throw ,,hand=hand,hand=hand,7712,7721
+215,1,question,A24,roll ball,woman,chair,inanimate,5068,7938,8096,chair other sit floor roll-ball ball-go ball-hit-object that’s-it,856,roll-ball,,hand=hand,hand=hand,8026,8029
+215,1,question,A26,push,woman,man,animate,5070,8631,8745,IX-body M other W push M get-pushed,861,push,,hand=hand,hand=hand,8688,8692
+215,1,question,A27,punch,woman,plant,inanimate,5071,8942,9043,tree W punch tree punch-tree tree-wave,863,punch,,hand=hand,hand=hand,8981,8991
+215,1,question,A30,punch,man,woman,animate ,5074,9975,10076,IX-body W other M punch W get-punched,870,punch,,hand=hand,hand=hand,10028,10036
+215,1,question,A31,feed,woman,chair,inanimate,5075,10258,10373,chair other no-one scoop-food feed that’s-it,874,feed,,hand=hand,hand=hand,10324,10339
+215,1,question,A32,tap,man,plant,inanimate,5076,10519,10627,tree other tap tree tap-tree tree-wave that’s-it,875,tap,,hand=hand,hand=hand,10575,10578
+215,1,question,A35,tickle,woman,man,animate ,5079,11331,11459,IX-body M other-init W tickle M get-tickled that’s-it,880,tickle,,hand=hand,hand=hand,11393,11398
+215,1,question,A11,pull,man,plant,inanimate,5055,3911,4059,tree tree-loc other M grab pull tree pull-tree,831,pull-tree,,hand=hand & hand=other,hand=hand,4011,4029
+215,1,question,A22,poke,man,plant,inanimate,5066,7323,7438,tree M poke tree poke-tree poke,852,poke-tree,,hand=hand & hand=other,hand=hand,7397,7404
+215,1,question,A27,punch,woman,plant,inanimate,5071,8942,9043,tree W punch tree punch-tree tree-wave,864,punch-tree,,hand=hand & hand=other,hand=hand,9006,9011
+215,1,question,A31,feed,woman,chair,inanimate,5075,10258,10373,chair other no-one scoop-food feed that’s-it,873,scoop-food ,,hand=hand & hand=other,hand=hand,10319,10324
+215,1,question,A32,tap,man,plant,inanimate,5076,10519,10627,tree other tap tree tap-tree tree-wave that’s-it,876,tap-tree,,hand=hand & hand=other,hand=hand,10595,10598
+145,2,right,A07,feed,woman,man,animate,7,3866,4108,table M sit-L W sit-R bowl scoop-food feed M get-fed scoop-food feed,16.5,get-fed,yes,body=body,x,4044,4062
+145,2,right,A13,walk,woman,man,animate ,13,6713,6975,M VCL-inv-stand-on-hand-L W VCL-inv-walk 2H-VCL-inv-walk IX-to-LH W stay 2H-VCL-inv-walk approach-face 2H-VCL-inv-walk ,33,approach-face,yes,body=body & CL,CL,6909,6926
+145,2,right,A13,walk,woman,man,animate ,13,6713,6975,M VCL-inv-stand-on-hand-L W VCL-inv-walk 2H-VCL-inv-walk IX-to-LH W stay 2H-VCL-inv-walk approach-face 2H-VCL-inv-walk ,34,2H-VCL-inv-walk,yes,body=body & CL,CL,6939,6953
+145,2,right,A21,walk,man,woman,animate ,21,10602,10831,IX-computer ummmm W GCL-R M GCL-L 2H-GCL-approach approach-face 2H-GCL-approach,47,approach-face,yes,body=body & CL,CL,10776,10787
+145,2,right,A01,hop,woman,man,animate ,1,611,842,M stand-inv-VCL-R W stand-inv-VCL-L hop-inv-VCL-on-RH M approach-sym-GCL-2H approach-VCL-inv-to-GCL,1,hop-inv-VCL-on-RH,yes,CL,CL,729,753
+145,2,right,A01,hop,woman,man,animate ,1,611,842,M stand-inv-VCL-R W stand-inv-VCL-L hop-inv-VCL-on-RH M approach-sym-GCL-2H approach-VCL-inv-to-GCL,2,approach-sym-GCL-2H,yes,CL,CL,773,784
+145,2,right,A01,hop,woman,man,animate ,1,611,842,M stand-inv-VCL-R W stand-inv-VCL-L hop-inv-VCL-on-RH M approach-sym-GCL-2H approach-VCL-inv-to-GCL,3,approach-VCL-inv-to-GCL,yes,CL,CL,799,830
+145,2,right,A02,jump,man,woman,inanimate,2,1231,1458,M left right chair-R M hop-inv-VCL-to-chair-bent-VCL,4,hop-inv-VCL-to-chair-bent-VCL,yes,CL,CL,1407,1442
+145,2,right,A03,crawl,man,woman,animate ,3,1793,2107,right W-R sit IX-legs cross-legged W cross-legged M on-knees-inv-VCL-on-LH crawl walk-inv-VCL W approach-GCL-2H,7,walk-inv-VCL,yes,CL,CL,2032,2055
+145,2,right,A03,crawl,man,woman,animate ,3,1793,2107,right W-R sit IX-legs cross-legged W cross-legged M on-knees-inv-VCL-on-LH crawl walk-inv-VCL W approach-GCL-2H,8,approach-GCL-2H,yes,CL,CL,2079,2095
+145,2,right,A09,skip,woman,man,animate ,9,4791,5020,M stand-GCL-R W igual stand-inv-VCL-on-hand body-skip skip-inv-VCL-on-hand approach-skip-inv-VCL-to-GCL,22,skip-inv-VCL-on-hand ,yes,CL,CL,4941,4965
+145,2,right,A09,skip,woman,man,animate ,9,4791,5020,M stand-GCL-R W igual stand-inv-VCL-on-hand body-skip skip-inv-VCL-on-hand approach-skip-inv-VCL-to-GCL,23,approach-skip-inv-VCL-to-GCL,yes,CL,CL,4976,5009
+145,2,right,A10,run,man,woman,animate ,10,5237,5371,W stand-inv-VCL-on-hand-L M body-run approach-running-inv-VCL-2H,25,approach-running-inv-VCL-2H,yes,CL,CL,5330,5355
+145,2,right,A13,walk,woman,man,animate ,13,6713,6975,M VCL-inv-stand-on-hand-L W VCL-inv-walk 2H-VCL-inv-walk IX-to-LH W stay 2H-VCL-inv-walk approach-face 2H-VCL-inv-walk ,29,VCL-inv-walk,yes,CL,CL,6801,6822
+145,2,right,A13,walk,woman,man,animate ,13,6713,6975,M VCL-inv-stand-on-hand-L W VCL-inv-walk 2H-VCL-inv-walk IX-to-LH W stay 2H-VCL-inv-walk approach-face 2H-VCL-inv-walk ,30,2H-VCL-inv-walk,yes,CL,CL,6832,6843
+145,2,right,A13,walk,woman,man,animate ,13,6713,6975,M VCL-inv-stand-on-hand-L W VCL-inv-walk 2H-VCL-inv-walk IX-to-LH W stay 2H-VCL-inv-walk approach-face 2H-VCL-inv-walk ,31,2H-VCL-inv-walk,yes,CL,CL,6873,6900
+145,2,right,A14,jump,woman,man,animate,14,7208,7352,M GCL-R W 1 VCL-inv-stand-on-hand VCL-inv-jump-on-hand,35,VCL-inv-jump-on-hand,yes,CL,CL,7304,7329
+145,2,right,A21,walk,man,woman,animate ,21,10602,10831,IX-computer ummmm W GCL-R M GCL-L 2H-GCL-approach approach-face 2H-GCL-approach,46,2H-GCL-approach,yes,CL,CL,10736,10766
+145,2,right,A21,walk,man,woman,animate ,21,10602,10831,IX-computer ummmm W GCL-R M GCL-L 2H-GCL-approach approach-face 2H-GCL-approach,48,2H-GCL-approach,yes,CL,CL,10802,10814
+145,2,right,A28,cycle,man,woman,animate ,28,13821,14020,W GCL-L M cycle CL-to-IX crash+body-crash 2H-GCL-init that’s-it,64,crash,yes,CL,CL,13974,13984
+145,2,right,A29,skip,woman,chair,inanimate,29,14230,14422,W GCL-R sit sit-L 1 body-skip 2H-GCL-1-bounce-approach,67,2H-GCL-1-bounce-approach,yes,CL,CL,14382,14412
+145,2,right,A33,hop,man,chair,inanimate,33,16367,16586,call-for-attention chair-L chair-L M 4 VCL-inv-hop body-hop VCL-inv-hop,74,VCL-inv-hop,yes,CL,CL,16480,16502
+145,2,right,A33,hop,man,chair,inanimate,33,16367,16586,call-for-attention chair-L chair-L M 4 VCL-inv-hop body-hop VCL-inv-hop,76,VCL-inv-hop,yes,CL,CL,16541,16571
+145,2,right,A36,crawl,man,plant,inanimate,36,17636,17840,tree pot plant M body-crawl VCL-inv-crawl-on-hand body-crawl VCL-inv-crawl,83,VCL-inv-crawl-on-hand,yes,CL,CL,17747,17758
+145,2,right,A36,crawl,man,plant,inanimate,36,17636,17840,tree pot plant M body-crawl VCL-inv-crawl-on-hand body-crawl VCL-inv-crawl,85,VCL-inv-crawl,yes,CL,CL,17793,17829
+145,2,right,A04,roll ball,woman,man,animate ,4,2369,2659,table W stand-inv-VCL-R  M stand-inv-VCL-L W ball ball-HCL-loc push-ball ball-roll/spin-forward-HCL,9,push-ball,yes,hand=hand,hand=hand,2587,2596
+145,2,right,A05,throw confetti,woman,man,animate,5,2949,3187,M stand-inv-VCL-L W stand-inv-VCL-R I-think paper cut-up gathered put-in-hand throw M fall-flutter-down,11,throw,yes,hand=hand,hand=hand,3111,3119
+145,2,right,A06,pull,man,woman,animate ,6,3440,3618,W stand-inv-VCL-on-RH+manner M hand grab pull W index-arm get-pulled,13,grab,yes,hand=hand,hand=hand,3528,3540
+145,2,right,A06,pull,man,woman,animate ,6,3440,3618,W stand-inv-VCL-on-RH+manner M hand grab pull W index-arm get-pulled,13.5,pull,yes,hand=hand,hand=hand,3540,3548
+145,2,right,A07,feed,woman,man,animate,7,3866,4108,table M sit-L W sit-R bowl scoop-food feed M  scoop-food get-fed scoop-food feed,15.5,feed,yes,hand=hand,hand=hand,4008,4018
+145,2,right,A07,feed,woman,man,animate,7,3866,4108,table M sit-L W sit-R bowl scoop-food feed M  scoop-food get-fed scoop-food feed,16, scoop-food,yes,hand=hand,hand=hand,4039,4044
+145,2,right,A07,feed,woman,man,animate,7,3866,4108,table M sit-L W sit-R bowl scoop-food feed M get-fed scoop-food feed,17,scoop-food,yes,hand=hand,hand=hand,4074,4080
+145,2,right,A07,feed,woman,man,animate,7,3866,4108,table M sit-L W sit-R bowl feed M get-fed feed,17.5,feed,yes,hand=hand,hand=hand,4080,4093
+145,2,right,A08,throw ball,woman,plant,inanimate,8,4334,4563,W IX-forward you-know round-container tree plan IX-body W ball throw go,18,throw,yes,hand=hand,hand=hand,4511,4519
+145,2,right,A12,tap,man,woman,animate ,12,6272,6468,M derecho tap W IX-front-to-body get-tapped,27,tap,yes,hand=hand,hand=hand,6359,6366
+145,2,right,A16,throw ball,man,woman,animate ,16,8341,8489,W sit-pose M ball throw W catch ,37,throw,yes,hand=hand,hand=hand,8427,8435
+145,2,right,A17,push,man,chair,inanimate,17,8716,8852, M chair M push ,39,push,yes,hand=hand,hand=hand,8806,8837
+145,2,right,A19,poke,man,woman,animate ,19,9532,9703,W GCL-L M 2H-GCL M poke W get-poked get-poked,42,poke,yes,hand=hand,hand=hand,9621,9631
+145,2,right,A20,tickle,man,chair,inanimate,20,10043,10290,M ya-know sit ummm sit back-flat tickle,45,tickle,yes,hand=hand,hand=hand,10235,10277
+145,2,right,A22,poke,man,plant,inanimate,22,11098,11270,M abort pot plant only poke that’s-it,49,poke,yes,hand=hand,hand=hand,11216,11244
+145,2,right,A23,throw confetti,woman,chair,inanimate,23,11514,11746,W GCL-R you-know chair chair-L cut-pieces-confetti throw chair chair confett-fall-over chair that’s-it,50,throw,yes,hand=hand,hand=hand,11672,11680
+145,2,right,A27,punch,woman,plant,inanimate,27,13409,13582,W M-init W plant pot tree W punch,61,punch,yes,hand=hand,hand=hand,13546,13554
+145,2,right,A30,punch,man,woman,animate ,30,14693,14866,W stand-pose M fist punch W get-punched,68,punch,yes,hand=hand,hand=hand,14799,14808
+145,2,right,A31,feed,woman,chair,inanimate,31,15247,15442,R chair IX-body W VCL-inv-stand-on-hand bowl scoop-food feed chair,70,scoop-food,yes,hand=hand,hand=hand,15371,15383
+145,2,right,A31,feed,woman,chair,inanimate,31,15247,15442,R chair IX-body W VCL-inv-stand-on-hand bowl scoop-food feed chair,70.5,feed ,yes,hand=hand,hand=hand,15384,15402
+145,2,right,A32,tap,man,plant,inanimate,32,15715,15947,call-for-attention M tree pot plant IX-body M pet get-pet pet ,71,pet,yes,hand=hand,hand=hand,15868,15891
+145,2,right,A32,tap,man,plant,inanimate,32,15715,15947,call-for-attention M tree pot plant IX-body M pet get-pet pet ,73,pet,yes,hand=hand,hand=hand,15922,15940
+145,2,right,A35,tickle,woman,man,animate ,35,17171,17406,M GCL-L W hands tickle IX-R M M W IX-out-to-body M W tickle get-tickled ,79,tickle,yes,hand=hand,hand=hand,17242,17254
+145,2,right,A35,tickle,woman,man,animate ,35,17171,17406,M GCL-L W hands tickle IX-R M M W IX-out-to-body M W tickle get-tickled ,80,tickle,yes,hand=hand,hand=hand,17354,17363
+145,2,right,A11,pull,man,plant,inanimate,11,5613,5767,pot-round-SASS tree plant pot-round-SASS IX-body M plant grab-GCL 2H-pull-GCL,25.5,grab-GCL,yes,hand=hand & CL,CL,5721,5735
+145,2,right,A11,pull,man,plant,inanimate,11,5613,5767,pot-round-SASS tree plant pot-round-SASS IX-body M plant 2H-pull-GCL,26,2H-pull-GCL,yes,hand=hand & CL,CL,5735,5747
+145,2,right,A07,feed,woman,man,animate,7,3866,4108,table M sit-L W sit-R bowl scoop-food feed M  scoop-food get-fed scoop-food feed,15,scoop-food,yes,hand=hand & hand=other,hand=hand,3995,4008
+145,2,right,A04,roll ball,woman,man,animate ,4,2369,2659,table W stand-inv-VCL-R  M stand-inv-VCL-L W ball ball-HCL-loc push-ball ball-roll/spin-forward-HCL,10,ball-roll/spin-forward-HCL,yes,OCL/HCL,CL,2612,2644
+145,2,right,A15,give ball,woman,chair,inanimate,15,7880,8116,"chair person none sit.
+W sit-R ball ball-give that’s-it",36,ball-give,yes,OCL/HCL,CL,8060,8080
+145,2,right,A18,give ball,woman,man,animate ,18,9097,9294,W VCL-inv-stand-on-hand M W ball give-ball M 2H-receive-ball ,40,give-ball ,yes,OCL/HCL,CL,9210,9226
+145,2,right,A24,roll ball,woman,chair,inanimate,24,12005,12195,W cross-legged sit cross-legged sit sit-L ball roll-ball-HCL/OCL roll-ball-trace ,52,roll-ball-HCL/OCL,yes,OCL/HCL,CL,12138,12147
+158,2,right,B02,jump,man,chair,inanimate,5154,836,947,chair IX-L IX-body M VCL-inv-jump that’s-it,1040,VCL-inv-jump,,CL,CL,914,929
+158,2,right,B04,run,man,woman,animate ,5156,1565,1701,W GCL-L M GCL-R-init run VCL-inv-run-to-GCL 2H-GCL-approach-eo that’s-it,1043,VCL-inv-run-to-GCL ,,CL,CL,1650,1674
+158,2,right,B04,run,man,woman,animate ,5156,1565,1701,W GCL-L M GCL-R-init run VCL-inv-run-to-GCL 2H-GCL-approach-eo that’s-it,1044,2H-GCL-approach-eo,,CL,CL,1679,1683
+158,2,right,B07,crawl,man,woman,animate ,5159,2519,2699,chair W chair IX-L sit stay IX-body M body-crawl-init VCL-inv-bent-crouch-on-hand body-crawl 2H-GCL-approach-eo that’s-it,1051,2H-GCL-approach-eo,,CL,CL,2679,2688
+158,2,right,B08,skip,woman,man,animate,5160,2871,2989,M look W body-skip 2H-GCL-approach-eo that’s-it,1054,2H-GCL-approach-eo,,CL,CL,2965,2975
+158,2,right,B10,walk,woman,plant,inanimate,5162,3539,3703,tree plant pot IX-body IX-L GCL-L IX-body W VCL-inv-approach-GCL 2H-GCL-approach-eo that’s it,1057,VCL-inv-approach-GCL,,CL,CL,3662,3669
+158,2,right,B10,walk,woman,plant,inanimate,5162,3539,3703,tree plant pot IX-body IX-L GCL-L IX-body W VCL-inv-approach-GCL 2H-GCL-approach-eo that’s it,1058,2H-GCL-approach-eo,,CL,CL,3674,3683
+158,2,right,B12,skip,woman,chair,inanimate,5164,4143,4246,W chair IX-R IX-body body-skip 2H-GCL-approach-eo,1062,2H-GCL-approach-eo,,CL,CL,4225,4231
+158,2,right,B15,hop,woman,man,animate ,5167,4913,5060,M GCL-R W VCL-inv-hop 2H-GCL-approach-eo that’s-it,1067,VCL-inv-hop,,CL,CL,5009,5036
+158,2,right,B15,hop,woman,man,animate ,5167,4913,5060,M GCL-R W VCL-inv-hop 2H-GCL-approach-eo that’s-it,1068,2H-GCL-approach-eo,,CL,CL,5042,5046
+158,2,right,B17,crawl,man,plant,inanimate,5169,5614,5769,tree pot-L IX-body sit body-crouch IX-front tree body-crawl VCL-inv-go-forward 2H-GCL-approach-eo,1072,VCL-inv-go-forward ,,CL,CL,5728,5744
+158,2,right,B17,crawl,man,plant,inanimate,5169,5614,5769,tree pot-L IX-body sit body-crouch IX-front tree body-crawl VCL-inv-go-forward 2H-GCL-approach-eo,1073,2H-GCL-approach-eo,,CL,CL,5752,5757
+158,2,right,B19,hop,man,chair,inanimate,5171,6251,6351,chair IX-L IX-body M VCL-inv-hop-to-GCL 2H-GCL-face-eo-init that’s-it,1076,VCL-inv-hop-to-GCL,,CL,CL,6308,6332
+158,2,right,B23,cycle,man,woman,animate ,5175,7487,7596,W GCL-L IX-body cycle 2H-GCL-approach-eo cycle-pose that’s-it,1084,2H-GCL-approach-eo,,CL,CL,7556,7570
+158,2,right,B24,jump,woman,man,animate ,5176,7782,7943,2H-GCL-face-eo M W 2H-GCL-face-eo W GCL-jump-to-GCL that’s-it,1085,GCL-jump-to-GCL ,,CL,CL,7904,7918
+158,2,right,B26,walk,man,woman,animate ,5178,8423,8539,W GCL-R IX-body M VCL-inv-walk-init 2H-GCL-approach-eo that’s-it,1089,2H-GCL-approach-eo,,CL,CL,8507,8518
+158,2,right,B30,run,plant,woman,inanimate,5182,9567,9688,tree pot stay IX-body W body-run GCL-approach-GCL that’s-it,1095,GCL-approach-GCL,,CL,CL,9652,9666
+158,2,right,B32,cycle,man,plant,inanimate,5184,10134,10240,tree IX-front IX-body cycle 2H-GCL-approach-eo that’s-it,1100,2H-GCL-approach-eo,,CL,CL,10207,10222
+158,2,right,B33,push,man,chair,inanimate,5185,10399,10528,chair IX-body M push chair-move push ,1102,chair-move,,CL,CL,10487,10499
+158,2,right,B20,throw ball,woman,plant,inanimate,5172,6503,6637,tree IX-L IX-body W ball throw GCL-hoiz-to-GCL tree that’s-it ,1078,GCL-hoiz-to-GCL,,CL & path,CL,6601,6611
+158,2,right,B25,roll ball,woman,chair,inanimate,5177,8101,8262,chair IX-L IX-body W hold-ball roll ball-roll chair ball-contact-chair ,1088,ball-contact-chair ,,CL & path,CL,8239,8244
+158,2,right,B05,pull,man,plant,inanimate,5157,1883,2041,tree height-SASS pot IX-body M pull tree-bend pull that’s-it,1046,tree-bend ,,hand=entity,other,2000,2010
+158,2,right,B16,throw confetti,woman,chair,inanimate,5168,5221,5421,chair IX-L hold paper W paper tear hold throw chair confetti-fall,1070,confetti-fall,,hand=entity,other,5405,5413
+158,2,right,B21,throw confetti,woman,man,animate ,5173,6786,6965,M GCL-L IX-body hold paper tear hold throw W? fall-over-body M,1080,fall-over-body,,hand=entity,other,6934,6952
+158,2,right,B35,tap,man,plant,inanimate,5187,11010,11110,tree IX-body M poke tree-bend poke,1107,tree-bend,,hand=entity,other,11074,11083
+158,2,right,B36,punch,woman,plant,inanimate,5188,11243,11366,IX-front tree IX-body W tree punch tree-bend,1110,tree-bend,,hand=entity,other,11347,11351
+158,2,right,B01,give ball,woman,man,animate ,5153,466,651,M W M IX-front IX-body give receive that’s-it,1038,give,,hand=hand,hand=hand,598,614
+158,2,right,B01,give ball,woman,man,animate ,5153,466,651,M W M IX-front IX-body give receive that’s-it,1039,receive ,,hand=hand,hand=hand,625,636
+158,2,right,B03,push,man,woman,animate ,5155,1246,1386,IX-front W IX-body M punch. that’s it.,1041,punch,,hand=hand,hand=hand,1345,1353
+158,2,right,B05,pull,man,plant,inanimate,5157,1883,2041,tree height-SASS pot IX-body M grab pull tree-bend pull that’s-it,1044.5,grab,,hand=hand,hand=hand,1969,1987
+158,2,right,B05,pull,man,plant,inanimate,5157,1883,2041,tree height-SASS pot IX-body M grab pull tree-bend pull that’s-it,1045,pull ,,hand=hand,hand=hand,1989,1991
+158,2,right,B05,pull,man,plant,inanimate,5157,1883,2041,tree height-SASS pot IX-body M pull tree-bend pull that’s-it,1047,pull,,hand=hand,hand=hand,2014,2026
+158,2,right,B06,tickle,woman,man,animate,5158,2217,2337, M GCL-L IX-body W tickle M get-tickled. that’s it.,1048,tickle,,hand=hand,hand=hand,2291,2303
+158,2,right,B09,roll ball,woman,man,animate ,5161,3169,3339,table M GCL-L IX-body W hold-ball push-ball ball-roll that’s-it,1055,push-ball,,hand=hand,hand=hand,3302,3308
+158,2,right,B11,throw ball,man,woman,animate,5163,3875,3985,W IX-L IX-body M hold-ball throw-ball W catch ,1059,throw-ball,,hand=hand,hand=hand,3937,3942
+158,2,right,B11,throw ball,man,woman,animate,5163,3875,3985,W IX-L IX-body M hold-ball throw-ball W catch ,1060,catch ,,hand=hand,hand=hand,3961,3967
+158,2,right,B13,tickle,man,chair,inanimate,5165,4400,4511,chair IX-L IX-body M look well tickle that’s-it,1064,tickle,,hand=hand,hand=hand,4480,4498
+158,2,right,B14,push,woman,man,animate ,5166,4658,4784,M GCL-L IX-body W push M get-pushed ,1065,push,,hand=hand,hand=hand,4740,4744
+158,2,right,B16,throw confetti,woman,chair,inanimate,5168,5221,5421,chair IX-L hold paper W paper tear hold throw chair confetti-fall,1069,throw,,hand=hand,hand=hand,5358,5369
+158,2,right,B18,tap,man,woman,animate ,5170,5942,6076,M W IX-body M tap get-tapped that’s-it,1074,tap,,hand=hand,hand=hand,6026,6044
+158,2,right,B20,throw ball,woman,plant,inanimate,5172,6503,6637,tree IX-L IX-body W ball throw GCL-hoiz-to-GCL tree that’s-it ,1077,throw,,hand=hand,hand=hand,6583,6590
+158,2,right,B21,throw confetti,woman,man,animate ,5173,6786,6965,M GCL-L IX-body hold paper tear hold throw W? fall-over-body M,1079,throw,,hand=hand,hand=hand,6914,6918
+158,2,right,B22,poke,man,woman,animate ,5174,7138,7280,W GCL-L IX-body M poke get-poked ,1081,poke ,,hand=hand,hand=hand,7238,7242
+158,2,right,B25,roll ball,woman,chair,inanimate,5177,8101,8262,chair IX-L IX-body W hold-ball roll ball-roll chair ball-contact-chair ,1086,roll,,hand=hand,hand=hand,8199,8203
+158,2,right,B28,pull,man,woman,animate ,5180,8999,9163,2H-GCL-face-eo W M IX-body grab pull W get-pulled-body get-pulled-init,1090.5,grab,,hand=hand,hand=hand,9079,9085
+158,2,right,B28,pull,man,woman,animate ,5180,8999,9163,2H-GCL-face-eo W M IX-body grab pull W get-pulled-body get-pulled-init,1091,pull,,hand=hand,hand=hand,9085,9088
+158,2,right,B29,give ball,woman,chair,inanimate,5181,9290,9420,chair IX-L chair IX-body W hold-ball give that’s-it,1093,give,,hand=hand,hand=hand,9382,9396
+158,2,right,B31,tap,man,plant,inanimate,5183,9817,9929,tree IX-body M tap tree tap-tree tap ,1096,tap,,hand=hand,hand=hand,9874,9876
+158,2,right,B31,tap,man,plant,inanimate,5183,9817,9929,tree IX-body M tap tree tap-tree tap ,1098,tap,,hand=hand,hand=hand,9909,9914
+158,2,right,B33,push,man,chair,inanimate,5185,10399,10528,chair IX-body M push chair-move push ,1101,push,,hand=hand,hand=hand,10476,10479
+158,2,right,B33,push,man,chair,inanimate,5185,10399,10528,chair IX-body M push chair-move push ,1103,push ,,hand=hand,hand=hand,10506,10514
+158,2,right,B34,feed,woman,man,animate ,5186,10688,10861,table chair-L chair-R M-R W-L IX-body W stir spoon-feed get-fed ,1104,spoon-feed,,hand=hand,hand=hand,10806,10817
+158,2,right,B35,tap,man,plant,inanimate,5187,11010,11110,tree IX-body M poke tree-bend poke,1106,poke,,hand=hand,hand=hand,11060,11065
+158,2,right,B35,tap,man,plant,inanimate,5187,11010,11110,tree IX-body M poke tree-bend poke,1108,poke,,hand=hand,hand=hand,11090,11094
+158,2,right,B36,punch,woman,plant,inanimate,5188,11243,11366,IX-front tree IX-body W tree punch tree-bend,1109,punch,,hand=hand,hand=hand,11328,11336
+158,2,right,B27,feed,woman,chair,inanimate,5179,8695,8844,chair IX-front IX-body W stir bowl stir spoon-feed that’s-it,1090,spoon-feed,,hand=hand & hand=other,hand=hand,8791,8811
+158,2,right,B31,tap,man,plant,inanimate,5183,9817,9929,tree IX-body M tap tree tap-tree tap ,1097,tap-tree,,hand=hand & hand=other,hand=hand,9893,9901
+159,2,right,A01,hop,woman,man,animate ,5081,751,935,IX-body M M VCL-inv-stand W VCL-inv-hop-on-LH,884,VCL-inv-hop-on-LH,,CL,CL,877,912
+159,2,right,A02,jump,man,woman,inanimate,5082,1156,1271,chair stay IX-body M VCL-inv-hop-on-LH  ,885,VCL-inv-hop-on-LH ,,CL,CL,1231,1247
+159,2,right,A03,crawl,man,woman,animate ,5083,1478,1641,IX-body-5 W sit leg-crossed M body-crawl VCL-bent-inv-crawl-on-LH ,887,VCL-bent-inv-crawl-on-LH ,,CL,CL,1612,1627
+159,2,right,A09,skip,woman,man,animate ,5089,3670,3855,IX-body M VCL-inv-stand-on-hand W VCL-inv-jump-init body-skip VCL-inv-skip-on-arm GCL-2H-meet-eo,900,VCL-inv-skip-on-arm,,CL,CL,3796,3815
+159,2,right,A09,skip,woman,man,animate ,5089,3670,3855,IX-body M VCL-inv-stand-on-hand W VCL-inv-jump-init body-skip VCL-inv-skip-on-arm GCL-2H-meet-eo,901,GCL-2H-meet-eo,,CL,CL,3828,3833
+159,2,right,A10,run,man,woman,animate ,5090,4051,4187,IX-body W VCL-inv-stand-on-hand M body-run VCL-inv-run-on-hand,903,VCL-inv-run-on-hand,,CL,CL,4140,4163
+159,2,right,A13,walk,woman,man,animate ,5093,5078,5203,M GCL-stand-L IX-body W GCL-2H-approach ,909,GCL-2H-approach ,,CL,CL,5161,5181
+159,2,right,A14,jump,woman,man,animate,5094,5418,5575,M VCL-inv-stand-on-hand IX-body W 1 VCL-inv-jump-on-hand BCL-2H-face-eo,910,VCL-inv-jump-on-hand ,,CL,CL,5515,5534
+159,2,right,A14,jump,woman,man,animate,5094,5418,5575,M VCL-inv-stand-on-hand IX-body W 1 VCL-inv-jump-on-hand BCL-2H-face-eo,911,BCL-2H-face-eo,,CL,CL,5551,5555
+159,2,right,A21,walk,man,woman,animate ,5101,7800,7929,W VCL-inv-stand-on-hand M VCL-inv-walk 2H-GCL-approach ,925,VCL-inv-walk,,CL,CL,7866,7889
+159,2,right,A21,walk,man,woman,animate ,5101,7800,7929,W VCL-inv-stand-on-hand M VCL-inv-walk 2H-GCL-approach ,926,2H-GCL-approach ,,CL,CL,7907,7910
+159,2,right,A28,cycle,man,woman,animate ,5108,10389,10606,IX-body W VCL-inv-stand-on-hand wait GCL-approach cycle BCL-approach-GCL cycle-stop straddle 2H-GCL-approach ,943,GCL-approach,,CL,CL,10474,10479
+159,2,right,A28,cycle,man,woman,animate ,5108,10389,10606,IX-body W VCL-inv-stand-on-hand wait GCL-approach cycle BCL-approach-GCL cycle-stop straddle 2H-GCL-approach ,946,BCL-approach-GCL,,CL,CL,10526,10543
+159,2,right,A28,cycle,man,woman,animate ,5108,10389,10606,IX-body W VCL-inv-stand-on-hand wait GCL-approach cycle BCL-approach-GCL cycle-stop straddle 2H-GCL-approach ,947,2H-GCL-approach,,CL,CL,10585,10589
+159,2,right,A29,skip,woman,chair,inanimate,5109,10791,10923,IX-body W 1 VCL-inv-skip-on-hand chair stay ,948,VCL-inv-skip-on-hand,,CL,CL,10854,10883
+159,2,right,A33,hop,man,chair,inanimate,5113,12103,12291,chair chair-loc IX-body VCL-inv-hop-on-arm GCL-2H-approach IX-body M GCL-stand chair GCL-approach-chair ,955,VCL-inv-hop-on-arm,,CL,CL,12175,12193
+159,2,right,A33,hop,man,chair,inanimate,5113,12103,12291,chair chair-loc IX-body VCL-inv-hop-on-arm GCL-2H-approach IX-body M GCL-stand chair GCL-approach-chair ,956,GCL-2H-approach,,CL,CL,12201,12206
+159,2,right,A34,run,woman,plant,inanimate,5114,12481,12664,tree GCL-loc tree pot? stay IX-body W VCL-inv-run-on-arm GCL-2H-approach that’s-it ,958,VCL-inv-run-on-arm,,CL,CL,12590,12609
+159,2,right,A34,run,woman,plant,inanimate,5114,12481,12664,tree GCL-loc tree pot? stay IX-body W VCL-inv-run-on-arm GCL-2H-approach that’s-it ,959,GCL-2H-approach,,CL,CL,12618,12626
+159,2,right,A36,crawl,man,plant,inanimate,5116,13073,13233,tree pot-plant IX-body M body-crawl VCL-inv-bent-crawl-on-arm tree VCL-inv-bent-approach,963,VCL-inv-bent-crawl-on-arm,,CL,CL,13170,13187
+159,2,right,A36,crawl,man,plant,inanimate,5116,13073,13233,tree pot-plant IX-body M body-crawl VCL-inv-bent-crawl-on-arm tree VCL-inv-bent-approach,964,VCL-inv-bent-approach,,CL,CL,13208,13215
+159,2,right,A33,hop,man,chair,inanimate,5113,12103,12291,chair chair-loc IX-body VCL-inv-hop-on-arm GCL-2H-approach IX-body M GCL-stand chair GCL-approach-chair ,957,GCL-approach-chair ,,CL & other,CL,12267,12271
+159,2,right,A05,throw confetti,woman,man,animate,5085,2195,2357,IX-body M sit-pose W throw-init confetti throw confetti-fall,891,confetti-fall,,hand=entity,other,2325,2351
+159,2,right,A22,poke,man,plant,inanimate,5102,8246,8407,IX-body M tree pot plant-SASS poke tree-bend ,928,tree-bend ,,hand=entity,other,8364,8389
+159,2,right,A25,cycle,man,plant,inanimate,5105,9373,9578,IX-body cycle-forward move-forward collide IX-other-hand tree pot plant-SASS collide straddled-collide ,935,move-forward,,hand=entity,other,9433,9447
+159,2,right,A27,punch,woman,plant,inanimate,5107,10002,10157,pot pot-SASS plant-SASS IX-body W punch tree contact-tree tree-sway ,942,tree-sway ,,hand=entity,other,10122,10147
+159,2,right,A25,cycle,man,plant,inanimate,5105,9373,9578,IX-body cycle-forward move-forward collide IX-other-hand tree pot plant-SASS collide straddled-collide ,936,collide,,hand=entity & hand=entity,other,9457,9463
+159,2,right,A25,cycle,man,plant,inanimate,5105,9373,9578,IX-body cycle-forward move-forward collide IX-other-hand tree pot plant-SASS collide straddled-collide ,937,collide,,hand=entity & hand=entity,other,9533,9538
+159,2,right,A04,roll ball,woman,man,animate ,5084,1834,2031,table ball hold-ball IX-body-2H W first ball-go IX-front M receive-ball ,889,receive-ball ,,hand=hand,hand=hand,1998,2010
+159,2,right,A05,throw confetti,woman,man,animate,5085,2195,2357,IX-body M sit-pose W throw-init confetti throw confetti-fall,890,throw,,hand=hand,hand=hand,2314,2318
+159,2,right,A06,pull,man,woman,animate ,5086,2539,2722,IX-body M sit-pose pull-init W grab-arm pull get-pulled pull ,892,pull,,hand=hand,hand=hand,2643,2650
+159,2,right,A06,pull,man,woman,animate ,5086,2539,2722,IX-body M sit-pose pull-init W grab-arm pull get-pulled pull ,894,pull,,hand=hand,hand=hand,2697,2706
+159,2,right,A07,feed,woman,man,animate,5087,2908,3077,table bowl spoon-food feed M sit-pose-arms-crossed chomp-pose get-fed,895,feed,,hand=hand,hand=hand,2972,2990
+159,2,right,A08,throw ball,woman,plant,inanimate,5088,3321,3485,IX-body W hold-ball IX-front pot plant throw-ball ball-go-around-pot,897,throw-ball,,hand=hand,hand=hand,3433,3440
+159,2,right,A11,pull,man,plant,inanimate,5091,4373,4521,pot plant tree IX-body M pull release ,904,pull,,hand=hand,hand=hand,4458,4476
+159,2,right,A11,pull,man,plant,inanimate,5091,4373,4521,pot plant tree IX-body M pull release ,905,release,,hand=hand,hand=hand,4484,4503
+159,2,right,A12,tap,man,woman,animate ,5092,4719,4882,M IX-body W IX-front tap M tap W sit-pose get-tapped ,906,tap,,hand=hand,hand=hand,4802,4810
+159,2,right,A12,tap,man,woman,animate ,5092,4719,4882,M IX-body W IX-front tap M tap W sit-pose get-tapped ,907,tap,,hand=hand,hand=hand,4828,4831
+159,2,right,A16,throw ball,man,woman,animate ,5096,6187,6304,IX-body M hold-ball throw W catch hold-pose,913,throw,,hand=hand,hand=hand,6236,6246
+159,2,right,A16,throw ball,man,woman,animate ,5096,6187,6304,IX-body M hold-ball throw W catch hold-pose,914,catch,,hand=hand,hand=hand,6263,6279
+159,2,right,A17,push,man,chair,inanimate,5097,6499,6667,IX-body M IX-front chair IX-front push turn push,915,push,,hand=hand,hand=hand,6582,6598
+159,2,right,A17,push,man,chair,inanimate,5097,6499,6667,IX-body M IX-front chair IX-front push turn push,916,turn,,hand=hand,hand=hand,6607,6627
+159,2,right,A17,push,man,chair,inanimate,5097,6499,6667,IX-body M IX-front chair IX-front push turn push,917,push,,hand=hand,hand=hand,6634,6647
+159,2,right,A18,give ball,woman,man,animate ,5098,6833,6971,W hold-ball give M receive hold-pose ,918,give,,hand=hand,hand=hand,6888,6904
+159,2,right,A19,poke,man,woman,animate ,5099,7157,7295,M IX-body poke W stay-quiet get-poked pose ,920,poke,,hand=hand,hand=hand,7221,7226
+159,2,right,A20,tickle,man,chair,inanimate,5100,7474,7623,IX-body M chair unintel? tickle get-tickled doesn’t-matter chair tickle that’s-it,922,tickle,,hand=hand,hand=hand,7538,7544
+159,2,right,A20,tickle,man,chair,inanimate,5100,7474,7623,IX-body M chair unintel? tickle get-tickled doesn’t-matter chair tickle that’s-it,924,tickle,,hand=hand,hand=hand,7592,7602
+159,2,right,A22,poke,man,plant,inanimate,5102,8246,8407,IX-body M tree pot plant-SASS poke tree-bend ,927,poke,,hand=hand,hand=hand,8342,8346
+159,2,right,A23,throw confetti,woman,chair,inanimate,5103,8582,8741,IX-body W confetti throw chair fall-over-chair ,929,throw,,hand=hand,hand=hand,8688,8696
+159,2,right,A26,push,woman,man,animate,5106,9726,9851,IX-body W push M get-pushed ,938, push,,hand=hand,hand=hand,9779,9783
+159,2,right,A27,punch,woman,plant,inanimate,5107,10002,10157,pot pot-SASS plant-SASS IX-body W punch tree contact-tree tree-sway ,940,punch,,hand=hand,hand=hand,10087,10095
+159,2,right,A30,punch,man,woman,animate ,5110,11101,11222,IX-body W stay-quiet M punch W get-punched ,949,punch,,hand=hand,hand=hand,11169,11175
+159,2,right,A31,feed,woman,chair,inanimate,5111,11423,11595,IX-body bowl-food-init W bowl-food scoop feed chair feed feed whatever ,951,feed,,hand=hand,hand=hand,11484,11502
+159,2,right,A31,feed,woman,chair,inanimate,5111,11423,11595,IX-body bowl-food-init W bowl-food scoop feed chair feed feed whatever ,952,feed,,hand=hand,hand=hand,11537,11548
+159,2,right,A32,tap,man,plant,inanimate,5112,11742,11902,tree pot plant M tap get-tapped-init tree tap-tree that’s-it,953,tap,,hand=hand,hand=hand,11823,11831
+159,2,right,A35,tickle,woman,man,animate ,5115,12805,12918,IX-body W tickle M get-tickled that’s-it,960,tickle,,hand=hand,hand=hand,12843,12857
+159,2,right,A06,pull,man,woman,animate ,5086,2539,2722,IX-body M sit-pose pull-init W grab-arm pull get-pulled pull ,891.5,grab-arm,,hand=hand & body=body,hand=hand,2622,2633
+159,2,right,A18,give ball,woman,man,animate ,5098,6833,6971,W hold-ball give M receive hold-pose ,919,receive,,hand=hand & hand=hand,hand=hand,6917,6930
+159,2,right,A23,throw confetti,woman,chair,inanimate,5103,8582,8741,IX-body W confetti throw chair fall-over-chair ,930,fall-over-chair,,hand=hand & hand=other,hand=hand,8722,8736
+159,2,right,A27,punch,woman,plant,inanimate,5107,10002,10157,pot pot-SASS plant-SASS IX-body W punch tree contact-tree tree-sway ,941,contact-tree,,hand=hand & hand=other,hand=hand,10110,10115
+159,2,right,A32,tap,man,plant,inanimate,5112,11742,11902,tree pot plant M tap get-tapped-init tree tap-tree that’s-it,954,tap-tree,,hand=hand & hand=other,hand=hand,11865,11882
+159,2,right,A04,roll ball,woman,man,animate ,5084,1834,2031,table ball hold-ball IX-body-2H W first ball-go IX-front M receive-ball ,888,ball-go,,OCL/HCL,CL,1958,1970
+159,2,right,A15,give ball,woman,chair,inanimate,5095,5773,5951,IX-body W hold-ball chair B-IX-front hold-ball give-ball ,912,give-ball ,,OCL/HCL,CL,5901,5923
+264,3,left,B02,jump,man,chair,inanimate,500,834,1036,chair VCL-inv-jump,749,VCL-inv-jump,,CL,CL,879,898
+264,3,left,B04,run,man,woman,animate ,5012,1834,1958,M IX-body M body-run 2H-GCL-approach,752,2H-GCL-approach,,CL,CL,1932,1940
+264,3,left,B07,crawl,man,woman,animate ,5015,2627,2958,W VCL-inv-bent IX-body M body-crawl 2H-GCL-approach,756,2H-GCL-approach,,CL,CL,2928,2938
+264,3,left,B08,skip,woman,man,animate,5016,3150,3285,IX-body M W GCL-walk 2H-GCL-approach,757,GCL-walk ,,CL,CL,3216,3240
+264,3,left,B08,skip,woman,man,animate,5016,3150,3285,IX-body M W GCL-walk 2H-GCL-approach,758,2H-GCL-approach,,CL,CL,3248,3263
+264,3,left,B10,walk,woman,plant,inanimate,5018,3909,4122,pot plant tree pot plant-SASS GCL IX-body GCL-go pot-plant grab pull,762,GCL-go,,CL,CL,4056,4066
+264,3,left,B15,hop,woman,man,animate ,5023,5711,5834,M-init IX-front M IX-body 2H-GCL-approach,772,2H-GCL-approach,,CL,CL,5762,5813
+264,3,left,B19,hop,man,chair,inanimate,5027,7142,7251,chair M VCL-inv-hop,776,VCL-inv-hop,,CL,CL,7201,7224
+264,3,left,B23,cycle,man,woman,animate ,5031,8442,8587,W IX-body M body-cycle 2H-GCL-approach,783,2H-GCL-approach,,CL,CL,8543,8554
+264,3,left,B24,jump,woman,man,animate ,5032,8794,8888,M IX-body W VCL-inv-jump-on-hand,784,VCL-inv-jump-on-hand,,CL,CL,8844,8865
+264,3,left,B26,walk,man,woman,animate ,5034,9451,9551,IX-body W 2H-GCL-approach,787,2H-GCL-approach,,CL,CL,9513,9525
+264,3,left,B32,cycle,man,plant,inanimate,5040,11341,11449,tree pot 2H-GCL-approach,795,2H-GCL-approach,,CL,CL,11416,11430
+264,3,left,B36,punch,woman,plant,inanimate,5044,12695,12812,pot tree punch-tree tree-fall punch-tree tree-fall ,806,tree-fall,,hand=entity,other,12759,12768
+264,3,left,B36,punch,woman,plant,inanimate,5044,12695,12812,pot tree punch-tree tree-fall punch-tree tree-fall ,808,tree-fall ,,hand=entity,other,12788,12796
+264,3,left,B03,push,man,woman,animate ,501,1469,1590,M IX-body w punch,750,punch,,hand=hand,hand=hand,1552,1561
+264,3,left,B05,pull,man,plant,inanimate,5013,2160,2301,pot tree pull-init M pull ,753,pull ,,hand=hand,hand=hand,2250,2265
+264,3,left,B06,tickle,woman,man,animate,5014,2462,2571,M IX-body W tickle ,754,tickle ,,hand=hand,hand=hand,2523,2557
+264,3,left,B09,roll ball,woman,man,animate ,5017,3482,3627,M IX-body W roll-ball table ball-go M receive-ball ,759,roll-ball,,hand=hand,hand=hand,3546,3557
+264,3,left,B09,roll ball,woman,man,animate ,5017,3482,3627,M IX-body W roll-ball table ball-go M receive-ball ,761,receive-ball,,hand=hand,hand=hand,3610,3616
+264,3,left,B10,walk,woman,plant,inanimate,5018,3909,4122,pot plant tree pot plant-SASS GCL IX-body GCL-go grab pull,763,grab,,hand=hand,hand=hand,4077,4099
+264,3,left,B10,walk,woman,plant,inanimate,5018,3909,4122,pot plant tree pot plant-SASS GCL IX-body GCL-go grab pull,764,pull,,hand=hand,hand=hand,4094,4103
+264,3,left,B11,throw ball,man,woman,animate,5019,4334,4451,W IX-body M throw M catch,765,throw,,hand=hand,hand=hand,4401,4408
+264,3,left,B11,throw ball,man,woman,animate,5019,4334,4451,W IX-body M throw M catch,766,catch,,hand=hand,hand=hand,4424,4434
+264,3,left,B13,tickle,man,chair,inanimate,5021,5062,5147,chair tickle ,769,tickle ,,hand=hand,hand=hand,5102,5130
+264,3,left,B14,push,woman,man,animate ,5022,5355,5528,M GCL IX-body W 2H-GCl-init push M get-pushed,770,push,,hand=hand,hand=hand,5439,5449
+264,3,left,B16,throw confetti,woman,chair,inanimate,5024,6079,6187,chair paper confetti throw,773,throw,,hand=hand,hand=hand,6160,6170
+264,3,left,B18,tap,man,woman,animate ,5026,6817,6917,IX-body W M tap,775,tap,,hand=hand,hand=hand,6891,6904
+264,3,left,B20,throw ball,woman,plant,inanimate,5028,7445,7560,tree pot unintel throw,777,throw,,hand=hand,hand=hand,7523,7537
+264,3,left,B21,throw confetti,woman,man,animate ,5029,7766,7888,M IX-body W confetti throw,778,throw,,hand=hand,hand=hand,7847,7853
+264,3,left,B22,poke,man,woman,animate ,5030,8079,8192,W IX-body poke get-poked poke,779,poke,,hand=hand,hand=hand,8136,8141
+264,3,left,B22,poke,man,woman,animate ,5030,8079,8192,W IX-body poke get-poked poke,781,poke,,hand=hand,hand=hand,8171,8176
+264,3,left,B25,roll ball,woman,chair,inanimate,5033,9089,9235,W sit W 2H-VCL-inv-bent-sit sit ball throw ball-go,785,throw,,hand=hand,hand=hand,9198,9203
+264,3,left,B27,feed,woman,chair,inanimate,5035,9752,9873,M bowl stir scoop feed,788,stir,,hand=hand,hand=hand,9797,9822
+264,3,left,B27,feed,woman,chair,inanimate,5035,9752,9873,M bowl stir scoop feed,789,feed,,hand=hand,hand=hand,9831,9849
+264,3,left,B29,give ball,woman,chair,inanimate,5037,10403,10530,W chair give-ball,791,give-ball,,hand=hand,hand=hand,10459,10475
+264,3,left,B31,tap,man,plant,inanimate,5039,10984,11097,tree tap M tap,793,tap,,hand=hand,hand=hand,11016,11039
+264,3,left,B31,tap,man,plant,inanimate,5039,10984,11097,tree tap M tap,794,tap,,hand=hand,hand=hand,11067,11080
+264,3,left,B33,push,man,chair,inanimate,5041,11715,11825,chair M push chair push,796,push,,hand=hand,hand=hand,11765,11776
+264,3,left,B33,push,man,chair,inanimate,5041,11715,11825,chair M push chair push,797,push,,hand=hand,hand=hand,11803,11809
+264,3,left,B34,feed,woman,man,animate ,5042,12050,12196,bowl M 2H-VCL-inv-bent-sit-facing stir scoop feed get-fed feed,799,feed,,hand=hand,hand=hand,12134,12142
+264,3,left,B34,feed,woman,man,animate ,5042,12050,12196,bowl M 2H-VCL-inv-bent-sit-facing stir scoop feed get-fed feed,801,feed,,hand=hand,hand=hand,12164,12174
+264,3,left,B35,tap,man,plant,inanimate,5043,12389,12562,tree pot IX-body M poke poke-tree 1 poke,802,poke,,hand=hand,hand=hand,12482,12486
+264,3,left,B35,tap,man,plant,inanimate,5043,12389,12562,tree pot IX-body M poke poke-tree 1 poke,804,poke,,hand=hand,hand=hand,12536,12537
+264,3,left,B27,feed,woman,chair,inanimate,5035,9752,9873,M bowl stir scoop feed,788.5,scoop,,hand=hand & hand=other,hand=hand,9825,9831
+264,3,left,B34,feed,woman,man,animate ,5042,12050,12196,bowl M 2H-VCL-inv-bent-sit-facing stir scoop feed get-fed feed,798.5,scoop,,hand=hand & hand=other,hand=hand,12129,12134
+264,3,left,B35,tap,man,plant,inanimate,5043,12389,12562,tree pot IX-body M poke poke-tree 1 poke,803,poke-tree ,,hand=hand & hand=other,hand=hand,12491,12521
+264,3,left,B36,punch,woman,plant,inanimate,5044,12695,12812,pot tree punch-tree tree-fall punch-tree tree-fall ,805,punch-tree,,hand=hand & hand=other,hand=hand,12750,12757
+264,3,left,B36,punch,woman,plant,inanimate,5044,12695,12812,pot tree punch-tree tree-fall punch-tree tree-fall ,807,punch-tree,,hand=hand & hand=other,hand=hand,12782,12786
+264,3,left,B01,give ball,woman,man,animate ,499,496,620,M IX-body W ball-give,748,ball-give,,OCL/HCL,CL,556,573
+264,3,left,B09,roll ball,woman,man,animate ,5017,3482,3627,M IX-body W roll-ball table ball-go M receive-ball ,760,ball-go,,OCL/HCL,CL,3583,3591
+275,3,right,B21,throw confetti,woman,man,animate ,5137,8768,8999,1 W hold paper-ripped hold throw confetti-fall 1 M confetti-fall-over-body ,1008,confetti-fall-over-body ,,body=body & hand=entity,other,8945,8975
+275,3,right,B04,run,man,woman,animate ,5120,1613,1823,1 M GCL other W GCL IX-R M VCL-inv-init run 2H-GCL-approach-other,970,2H-GCL-approach-other,,CL,CL,1765,1800
+275,3,right,B07,crawl,man,woman,animate ,5123,2813,3054,1 M VCL-inv-crouch-on-hand hands-on-floor-pose other 1 W sit-cross-legged VCL-inv-crawl-to-GCL body-crawl 2H-GCL-approach ,974,VCL-inv-crawl-to-GC,,CL,CL,2970,2977
+275,3,right,B07,crawl,man,woman,animate ,5123,2813,3054,1 M VCL-inv-crouch-on-hand hands-on-floor-pose other 1 W sit-cross-legged VCL-inv-crawl-to-GCL body-crawl 2H-GCL-approach ,975,2H-GCL-approach,,CL,CL,2999,3028
+275,3,right,B08,skip,woman,man,animate,5124,3253,3467,1 M GCL other 1 W GCH-2H-face-eo VCL-inv-skip-on-hand GCH-2H-skip-approach ,976,VCL-inv-skip-on-hand,,CL,CL,3372,3391
+275,3,right,B08,skip,woman,man,animate,5124,3253,3467,1 M GCL other 1 W GCH-2H-face-eo VCL-inv-skip-on-hand GCH-2H-skip-approach ,977,GCH-2H-skip-approach ,,CL,CL,3401,3446
+275,3,right,B12,skip,woman,chair,inanimate,5128,5045,5223,1 W VCL-inv-skip BCL-move chair blue GCL-move-to-chair ,984,VCL-inv-skip,,CL,CL,5108,5117
+275,3,right,B12,skip,woman,chair,inanimate,5128,5045,5223,1 W VCL-inv-skip BCL-move chair blue GCL-move-to-chair ,985,BCL-move,,CL,CL,5133,5144
+275,3,right,B15,hop,woman,man,animate ,5131,6216,6470,1 M face-forward GCL-loc other 1 W face-forward 2H-GCL-face-eo VCL-inv-hop-on-hand GCL-hop-to-GCL,991,VCL-inv-hop-on-hand,,CL,CL,6387,6395
+275,3,right,B15,hop,woman,man,animate ,5131,6216,6470,1 M face-forward GCL-loc other 1 W face-forward 2H-GCL-face-eo VCL-inv-hop-on-hand GCL-hop-to-GCL,992,GCL-hop-to-GCL,,CL,CL,6406,6447
+275,3,right,B17,crawl,man,plant,inanimate,5133,7142,7347,1 M floor VCL-bent-kneel hands-on-floor-pose crawl BCL-go-forward-over-basehand plant GCL-approach-GCL ,997,GCL-approach-GCL,,CL,CL,7314,7322
+275,3,right,B18,tap,man,woman,animate ,5134,7574,7762,1 M other 1 W 2H-GCL-approach M tap-fist get-tapped ,998,2H-GCL-approach,,CL,CL,7641,7648
+275,3,right,B19,hop,man,chair,inanimate,5135,7988,8155,1 M VCL-inv-stand-on-hand VCL-inv-hop-on-hand IX-L-on-arm  chair blue GCL-approach-GCL ,1001,VCL-inv-hop-on-hand,,CL,CL,8042,8084
+275,3,right,B19,hop,man,chair,inanimate,5135,7988,8155,1 M VCL-inv-stand-on-hand VCL-inv-hop-on-hand IX-L-on-arm  chair blue GCL-approach-GCL ,1002,GCL-approach-GCL,,CL,CL,8120,8127
+275,3,right,B20,throw ball,woman,plant,inanimate,5136,8347,8592,1 M-init W ball blue squishy throw BCL-go tree BCL-pass-tree ,1004,BCL-go,,CL,CL,8496,8508
+275,3,right,B20,throw ball,woman,plant,inanimate,5136,8347,8592,1 M-init W ball blue squishy throw BCL-go tree BCL-pass-tree ,1005,BCL-pass-tree ,,CL,CL,8551,8564
+275,3,right,B23,cycle,man,woman,animate ,5139,9581,9781,1 W VCL-inv-stand-on-hand stay other 1 M straddle-bike cycle BCL-to-GCL stay ,1012,BCL-to-GCL,,CL,CL,9729,9751
+275,3,right,B24,jump,woman,man,animate ,5140,9990,10189,1 M GCL-R other 1 W 2H-GCL-face-eo VCL-inv-jump-on-hand GCL-jump-to-GCL ,1013,VCL-inv-jump-on-hand ,,CL,CL,10109,10131
+275,3,right,B24,jump,woman,man,animate ,5140,9990,10189,1 M GCL-R other 1 W 2H-GCL-face-eo VCL-inv-jump-on-hand GCL-jump-to-GCL ,1014,GCL-jump-to-GCL,,CL,CL,10142,10156
+275,3,right,B25,roll ball,woman,chair,inanimate,5141,10391,10605,1 W sit-cross-legged VCL-inv-kneel-on-hand ball roll roll BCL-to-BCL chair blue ,1017,BCL-to-BCL,,CL,CL,10537,10543
+275,3,right,B26,walk,man,woman,animate ,5142,10805,10999,1 W GCL-R stay other 1 M GCL-go GCL-to-GCL ,1018,GCL-go,,CL,CL,10927,10945
+275,3,right,B26,walk,man,woman,animate ,5142,10805,10999,1 W GCL-R stay other 1 M GCL-go GCL-to-GCL ,1019,GCL-to-GCL ,,CL,CL,10952,10967
+275,3,right,B30,run,plant,woman,inanimate,5146,12342,12518,1 W run 2H-GCL-approach IX-GCL plant 2H-GCL-approach,1025,2H-GCL-approach,,CL,CL,12431,12440
+275,3,right,B30,run,plant,woman,inanimate,5146,12342,12518,1 W run 2H-GCL-approach IX-GCL plant 2H-GCL-approach,1026,2H-GCL-approach,,CL,CL,12486,12492
+275,3,right,B32,cycle,man,plant,inanimate,5148,13107,13351,plant stay plant-SASS other 1 M cycle BCL-approach-GCL stay  ,1030,BCL-approach-GCL,,CL,CL,13288,13312
+275,3,right,B02,jump,man,chair,inanimate,5118,804,1006,1 M VCL-inv-stand other IX-L chair blue chair-loc VCL-inv-jump-to-chair ,967,VCL-inv-jump-to-chair ,,CL & other,CL,959,972
+275,3,right,B10,walk,woman,plant,inanimate,5126,4261,4459,1 W VCL-inv-stand other plant plant-loc VCL-inv-approach-plant-loc ,980,VCL-inv-approach-plant-loc ,,CL & other,CL,4390,4426
+275,3,right,B12,skip,woman,chair,inanimate,5128,5045,5223,1 W VCL-inv-skip BCL-move chair blue GCL-move-to-chair ,986,GCL-move-to-chair ,,CL & other,CL,5187,5198
+275,3,right,B17,crawl,man,plant,inanimate,5133,7142,7347,1 M floor VCL-bent-kneel hands-on-floor-pose crawl BCL-go-forward-over-basehand plant GCL-approach-GCL ,996,BCL-go-forward,,CL & other,CL,7254,7264
+275,3,right,B21,throw confetti,woman,man,animate ,5137,8768,8999,1 W hold paper-ripped hold throw confetti-fall 1 M confetti-fall-over-body ,1007,confetti-fall,,hand=entity,other,8891,8911
+275,3,right,B09,roll ball,woman,man,animate ,5125,3693,3967,table IX-right right 1 W other 1 M GCL-2H-face-eo ball push-ball GCL ball-approach-GCL ,979,ball-approach-GCL ,,hand=entity & hand=entity,other,3913,3936
+275,3,right,B01,give ball,woman,man,animate ,5117,280,518,1 W GCL-loc ball blue hold-ball-pose give other 1 M receive-ball,965,give,,hand=hand,hand=hand,405,418
+275,3,right,B01,give ball,woman,man,animate ,5117,280,518,1 W GCL-loc ball blue hold-ball-pose give other 1 M receive-ball,966,receive-ball,,hand=hand,hand=hand,477,491
+275,3,right,B03,push,man,woman,animate ,5119,1204,1385,1 M other 1 W 2H-GCL-face-eo IX-L punch-GCL get-punched ,968,punch-GCL,,hand=hand,hand=hand,1319,1329
+275,3,right,B05,pull,man,plant,inanimate,5121,2027,2221,1 M VCL-stand-on-hand VCL-stand IX-forward plant VCL-inv-face-pot grab pull,971,grab ,,hand=hand,hand=hand,2153,2167
+275,3,right,B05,pull,man,plant,inanimate,5121,2027,2221,1 M VCL-stand-on-hand VCL-stand IX-forward plant VCL-inv-face-pot grab pull,972,pull,,hand=hand,hand=hand,2168,2184
+275,3,right,B09,roll ball,woman,man,animate ,5125,3693,3967,table IX-right right 1 W other 1 M GCL-2H-face-eo ball push-ball GCL ball-approach-GCL ,978, push-ball ,,hand=hand,hand=hand,3891,3899
+275,3,right,B11,throw ball,man,woman,animate,5127,4663,4844,1 M ball throw ball-move other 1 W catch ,981,throw ,,hand=hand,hand=hand,4725,4732
+275,3,right,B11,throw ball,man,woman,animate,5127,4663,4844,1 M ball throw ball-move other 1 W catch ,983,catch ,,hand=hand,hand=hand,4802,4811
+275,3,right,B13,tickle,man,chair,inanimate,5129,5400,5634,1 W (restart) 1 M GCL+chair IX-chair chair blue tickle back-surface tickle ,987, tickle,,hand=hand,hand=hand,5556,5569
+275,3,right,B13,tickle,man,chair,inanimate,5129,5400,5634,1 W (restart) 1 M GCL+chair IX-chair chair blue tickle back-surface tickle ,988, tickle,,hand=hand,hand=hand,5596,5614
+275,3,right,B14,push,woman,man,animate ,5130,5825,5979,1 W push other 1 M get-pushed ,989,push,,hand=hand,hand=hand,5897,5903
+275,3,right,B16,throw confetti,woman,chair,inanimate,5132,6674,6915,1 W hold IX-hand paper-ripped hold IX-front chair blue throw confetti-fall,993,throw,,hand=hand,hand=hand,6858,6863
+275,3,right,B20,throw ball,woman,plant,inanimate,5136,8347,8592,1 M-init W ball blue squishy throw BCL-go tree BCL-pass-tree ,1003,throw,,hand=hand,hand=hand,8476,8485
+275,3,right,B21,throw confetti,woman,man,animate ,5137,8768,8999,1 W hold paper-ripped hold throw confetti-fall 1 M confetti-fall-over-body ,1006,throw,,hand=hand,hand=hand,8880,8886
+275,3,right,B22,poke,man,woman,animate ,5138,9181,9315,1 M other 1 W 2H-GCL-face-eo poke get-poked ,1009,poke ,,hand=hand,hand=hand,9269,9275
+275,3,right,B25,roll ball,woman,chair,inanimate,5141,10391,10605,1 W sit-cross-legged VCL-inv-kneel-on-hand ball roll roll BCL-to-BCL chair blue ,1015,roll,,hand=hand,hand=hand,10497,10502
+275,3,right,B27,feed,woman,chair,inanimate,5143,11199,11385,1 W VCL-inv-stand-on-hand bowl scoop spoon-feed nothing chair blue ,1020.5,spoon-feed ,,hand=hand,hand=hand,11288,11303
+275,3,right,B28,pull,man,woman,animate ,5144,11617,11816,1 M grab other W face-forward get-pulled ,1021,grab,,hand=hand,hand=hand,11694,11703
+275,3,right,B29,give ball,woman,chair,inanimate,5145,11992,12171,1 W ball give nothing chair blue ,1023,give,,hand=hand,hand=hand,12082,12095
+275,3,right,B33,push,man,chair,inanimate,5149,13541,13658,1 M push chair blue ,1031,push,,hand=hand,hand=hand,13595,13607
+275,3,right,B34,feed,woman,man,animate ,5150,13845,14134,table sit W other sit M 2H-VCL-inv-bent-sit-facing IX W scoop spoon-feed M get-fed ,1032,scoop,,hand=hand,hand=hand,14033,14045
+275,3,right,B34,feed,woman,man,animate ,5150,13845,14134,table sit W other sit M 2H-VCL-inv-bent-sit-facing IX W scoop spoon-feed M get-fed ,1032.5,spoon-feed,,hand=hand,hand=hand,14045,14056
+275,3,right,B35,tap,man,plant,inanimate,5151,14311,14472,1 M poke plant poke-plant ,1034,poke,,hand=hand,hand=hand,14378,14386
+275,3,right,B36,punch,woman,plant,inanimate,5152,14640,14792,1 W punch plant punch-plant ,1036,punch,,hand=hand,hand=hand,14704,14710
+275,3,right,B31,tap,man,plant,inanimate,5147,12711,12865,1 M tap-GCL IX-GCL plant tap-GCL,1027,tap-GCL ,,hand=hand & CL,CL,12775,12783
+275,3,right,B31,tap,man,plant,inanimate,5147,12711,12865,1 M tap-GCL IX-GCL plant tap-GCL,1028,tap-GCL ,,hand=hand & CL,CL,12821,12839
+275,3,right,B18,tap,man,woman,animate ,5134,7574,7762,1 M other 1 W 2H-GCL-approach M tap-fist get-tapped ,999,tap-fist,,hand=hand & hand=other,hand=hand,7695,7706
+275,3,right,B35,tap,man,plant,inanimate,5151,14311,14472,1 M poke plant poke-plant ,1035,poke-plant,,hand=hand & hand=other,hand=hand,14427,14440
+275,3,right,B36,punch,woman,plant,inanimate,5152,14640,14792,1 W punch plant punch-plant ,1037,punch-plant,,hand=hand & hand=other,hand=hand,14750,14760
+275,3,right,B11,throw ball,man,woman,animate,5127,4663,4844,1 M ball throw ball-move other 1 W catch ,982,ball-move,,OCL/HCL,CL,4746,4757
+377,3,right,B07,crawl,man,woman,animate ,188,2759,2932,W IX-legs cross-legs M body-crawl BCL-approach-eo W BCL-approach-face ,304,BCL-approach-face,,body=body & CL,CL,2904,2912
+377,3,right,B08,skip,woman,man,animate,189,3153,3339,IX-body W VCL-inv-stand-on-hand body-run VCL-inv-skip-on-hand BCL-approach-eo M BCL-approach-face,308,BCL-approach-face,,body=body & CL,CL,3304,3320
+377,3,right,B02,jump,man,chair,inanimate,183,927,1062,IX-body M IX-R chair IX-body M VCL-inv-stand-on-hand VCL-inv-hop-on-hand,292,VCL-inv-hop-on-hand,,CL,CL,1021,1044
+377,3,right,B04,run,man,woman,animate ,185,1676,1859,IX-body M run W stand-pose BCL-approach-eo M BCL-approach,296,BCL-approach-eo,,CL,CL,1787,1811
+377,3,right,B04,run,man,woman,animate ,185,1676,1859,IX-body M run W stand-pose BCL-approach-eo M BCL-approach,297,BCL-approach,,CL,CL,1834,1839
+377,3,right,B07,crawl,man,woman,animate ,188,2759,2932,W IX-legs cross-legs M body-crawl BCL-approach-eo W BCL-approach-face ,303,BCL-approach-eo,,CL,CL,2870,2879
+377,3,right,B08,skip,woman,man,animate,189,3153,3339,IX-body W VCL-inv-stand-on-hand body-run VCL-inv-skip-on-hand BCL-approach-eo M BCL-approach-face,306,VCL-inv-skip-on-hand,,CL,CL,3235,3257
+377,3,right,B08,skip,woman,man,animate,189,3153,3339,IX-body W VCL-inv-stand-on-hand body-run VCL-inv-skip-on-hand BCL-approach-eo M BCL-approach-face,307,BCL-approach-eo,,CL,CL,3266,3276
+377,3,right,B12,skip,woman,chair,inanimate,193,4572,4740,W shirt stripped VCL-inv-skip-on-hand IX-front chair VCL-inv-skip-on-hand that’s it,314,VCL-inv-skip-on-hand,,CL,CL,4660,4672
+377,3,right,B12,skip,woman,chair,inanimate,193,4572,4740,W shirt stripped VCL-inv-skip-on-hand IX-front chair VCL-inv-skip-on-hand that’s it,315,VCL-inv-skip-on-hand,,CL,CL,4707,4719
+377,3,right,B15,hop,woman,man,animate ,196,5594,5740,IX-front M VCL-inv-stand-on-hand IX-body W VCL-inv-hop-on-hand BCL-approach-eo,319,VCL-inv-hop-on-hand,,CL,CL,5680,5707
+377,3,right,B15,hop,woman,man,animate ,196,5594,5740,IX-front M VCL-inv-stand-on-hand IX-body W VCL-inv-hop-on-hand BCL-approach-eo,320,BCL-approach-eo,,CL,CL,5715,5724
+377,3,right,B17,crawl,man,plant,inanimate,198,6412,6557,IX-front tree trunk IX-in-front-of-body M body-crawl BCL-approach-eo,323,BCL-approach-eo,,CL,CL,6529,6541
+377,3,right,B19,hop,man,chair,inanimate,200,7050,7159,IX-body IX-front-of-body? M IX-R chair VCL-inv-hop-on-hand ,325,VCL-inv-hop-on-hand,,CL,CL,7119,7140
+377,3,right,B23,cycle,man,woman,animate ,204,8644,8848,IX-body M VCL-inv-stand-on-hand coat IX-R M cycle BCL-approach-eo W VCL-inv-stand-on-hand BCL-approach-eo,335,BCL-approach-eo,,CL,CL,8768,8784
+377,3,right,B23,cycle,man,woman,animate ,204,8644,8848,IX-body M VCL-inv-stand-on-hand coat IX-R M cycle BCL-approach-eo W VCL-inv-stand-on-hand BCL-approach-eo,336,BCL-approach-eo,,CL,CL,8818,8829
+377,3,right,B24,jump,woman,man,animate ,205,9043,9202,W IX-in-front-of-body IX-front M VCL-inv-stand-on-hand IX-body W VCL-inv-jump-on-hand BCL-approach ,337,VCL-inv-jump-on-hand,,CL,CL,9150,9168
+377,3,right,B24,jump,woman,man,animate ,205,9043,9202,W IX-in-front-of-body IX-front M VCL-inv-stand-on-hand IX-body W VCL-inv-jump-on-hand BCL-approach ,338,BCL-approach,,CL,CL,9180,9185
+377,3,right,B26,walk,man,woman,animate ,207,9899,10028,IX-body IX-in-front-of-body M IX-front W VCL-inv-walk-on-hand BCL-approach ,342, VCL-inv-walk-on-hand,,CL,CL,9971,9984
+377,3,right,B26,walk,man,woman,animate ,207,9899,10028,IX-body IX-in-front-of-body M IX-front W VCL-inv-walk-on-hand BCL-approach ,343,BCL-approach ,,CL,CL,9993,10004
+377,3,right,B30,run,plant,woman,inanimate,311,11153,11266,IX-front pot tree IX-body W body-run BCL-approach-eo,352,BCL-approach-eo,,CL,CL,11247,11251
+377,3,right,B32,cycle,man,plant,inanimate,313,11871,12003,tree pot-loc M cycle ride-to-object bump,357,ride-to-object ,,CL,CL,11957,11969
+377,3,right,B20,throw ball,woman,plant,inanimate,201,7432,7610,W ball IX-front-R tree throw tree ball-contact-tree tree-wave ball-fall,328,tree-wave,,hand=entity,other,7571,7581
+377,3,right,B31,tap,man,plant,inanimate,312,11522,11639,M VCL-inv-stand-on-hand IX-front tree tap tree-wave tap-tree,354,tree-wave,,hand=entity,other,11601,11613
+377,3,right,B20,throw ball,woman,plant,inanimate,201,7432,7610,W ball IX-front-R tree throw tree ball-contact-tree tree-wave ball-fall,327,ball-contact-tree,,hand=entity & hand=entity,other,7560,7567
+377,3,right,B20,throw ball,woman,plant,inanimate,201,7432,7610,W ball IX-front-R tree throw tree ball-contact-tree tree-wave ball-fall,329,ball-fall,,hand=entity & hand=entity,other,7585,7595
+377,3,right,B25,roll ball,woman,chair,inanimate,206,9509,9704,W sit legs-crossed IX-front chair ball throw roll ball chair ball-hit-chair,341,ball-hit-chair,,hand=entity & hand=entity,other,9676,9687
+377,3,right,B03,push,man,woman,animate ,184,1296,1448,IX-body M IX-front W IX-body M punch get-punched ,293,punch,,hand=hand,hand=hand,1399,1413
+377,3,right,B05,pull,man,plant,inanimate,186,2091,2233,M IX-front pot plant-tree IX-body grab pull ,298,grab,,hand=hand,hand=hand,2187,2200
+377,3,right,B05,pull,man,plant,inanimate,186,2091,2233,M IX-front pot plant-tree IX-body grab pull ,299,pull ,,hand=hand,hand=hand,2202,2214
+377,3,right,B06,tickle,woman,man,animate,187,2426,2550,M stand-pose W tickle M get-tickled ,300,tickle ,,hand=hand,hand=hand,2489,2505
+377,3,right,B11,throw ball,man,woman,animate,192,4259,4376,IX-body M ball throw W catch ,312,throw,,hand=hand,hand=hand,4310,4321
+377,3,right,B11,throw ball,man,woman,animate,192,4259,4376,IX-body M ball throw W catch ,313,catch,,hand=hand,hand=hand,4342,4357
+377,3,right,B13,tickle,man,chair,inanimate,194,4926,5041,M VCL-inv-stand-on-hand IX-R chair upright-back-of-chair tickle ,316,tickle ,,hand=hand,hand=hand,5012,5029
+377,3,right,B14,push,woman,man,animate ,195,5233,5384,IX-body IX-front-of-body W stripes IX-front M (unintel) push get-pushed,317,push,,hand=hand,hand=hand,5338,5346
+377,3,right,B16,throw confetti,woman,chair,inanimate,197,5921,6188,IX-body W scarf stripes coat IX-front chair IX-body paper paper torn throw ,321,throw ,,hand=hand,hand=hand,6169,6176
+377,3,right,B18,tap,man,woman,animate ,199,6736,6834,IX-body M IX-front W tap,324,tap,,hand=hand,hand=hand,6811,6818
+377,3,right,B20,throw ball,woman,plant,inanimate,201,7432,7610,W ball IX-front-R tree throw tree tree-wave ball-fall,326,throw ,,hand=hand,hand=hand,7522,7531
+377,3,right,B21,throw confetti,woman,man,animate ,202,7788,8106,IX-body W scarf stripes coat IX-front M blue sweater W confetti-tear-paper throw M confetti-fall-over-body,330,throw,,hand=hand,hand=hand,8045,8056
+377,3,right,B22,poke,man,woman,animate ,203,8324,8429,IX-body M IX-front W poke get-poked,332,poke,,hand=hand,hand=hand,8392,8395
+377,3,right,B25,roll ball,woman,chair,inanimate,206,9509,9704,W sit legs-crossed IX-front chair ball throw roll ball chair ball-hit-chair,339,throw,,hand=hand,hand=hand,9620,9625
+377,3,right,B27,feed,woman,chair,inanimate,308,10199,10331,IX-body W scoop-food IX-front chair scoop-food feed ,346,feed ,,hand=hand,hand=hand,10292,10306
+377,3,right,B28,pull,man,woman,animate ,309,10528,10699,M IX-front W stand-pose IX-body M grab pull get-pulled,347,grab,,hand=hand,hand=hand,10639,10650
+377,3,right,B28,pull,man,woman,animate ,309,10528,10699,M IX-front W stand-pose IX-body M grab pull get-pulled,348,pull,,hand=hand,hand=hand,10650,10657
+377,3,right,B29,give ball,woman,chair,inanimate,310,10869,10985,W IX-front chair ball give-ball,350,give-ball,,hand=hand,hand=hand,10943,10959
+377,3,right,B31,tap,man,plant,inanimate,312,11522,11639,M VCL-inv-stand-on-hand IX-front tree tap tree-wave tap-tree,353,tap,,hand=hand,hand=hand,11588,11596
+377,3,right,B33,push,man,chair,inanimate,314,12194,12290,IX-front-of-body M IX-front? chair push,358,push,,hand=hand,hand=hand,12264,12276
+377,3,right,B34,feed,woman,man,animate ,315,12473,12655,W 2H-VCL-inv-sit-facing 1 table bowl W scoop-food feed M get-fed ,360,feed,,hand=hand,hand=hand,12596,12605
+377,3,right,B27,feed,woman,chair,inanimate,308,10199,10331,IX-body W scoop-food IX-front chair scoop-food feed ,344,scoop-food ,,hand=hand & hand=other,hand=hand,10232,10254
+377,3,right,B27,feed,woman,chair,inanimate,308,10199,10331,IX-body W scoop-food IX-front chair scoop-food feed ,345,scoop-food ,,hand=hand & hand=other,hand=hand,10284,10292
+377,3,right,B31,tap,man,plant,inanimate,312,11522,11639,M VCL-inv-stand-on-hand IX-front tree tap tree-wave tap-tree,355,tap-tree,,hand=hand & hand=other,hand=hand,11619,11628
+377,3,right,B34,feed,woman,man,animate ,315,12473,12655,W 2H-VCL-inv-sit-facing 1 table bowl W scoop-food feed M get-fed ,359,scoop-food,,hand=hand & hand=other,hand=hand,12584,12592
+377,3,right,B35,tap,man,plant,inanimate,316,12810,12968,IX-body M tree M approach-init touch tap-object tree trap-tree ,363,tap-object,,hand=hand & hand=other,hand=hand,12913,12920
+377,3,right,B35,tap,man,plant,inanimate,316,12810,12968,IX-body M tree M approach-init touch tap-object tree trap-tree ,364,trap-tree,,hand=hand & hand=other,hand=hand,12936,12948
+377,3,right,B36,punch,woman,plant,inanimate,317,13127,13260,IX-body W tree IX-body W punch-tree ,365,punch-tree ,,hand=hand & hand=other,hand=hand,13216,13232
+377,3,right,B01,give ball,woman,man,animate ,182,575,684,IX-body W IX-front M ball-give ,291,ball-give,,OCL/HCL,CL,646,665
+377,3,right,B09,roll ball,woman,man,animate ,190,3538,3696,W table ball ball-go M receive-ball,310,receive-ball,,OCL/HCL,CL,3668,3678
+394,3,right,A03,crawl,man,woman,animate ,393,1693,1968,1 W IX-legs crossed-legs sit-pose M body-crawl BCL-approach-face,530,BCL-approach-face,,body=body & CL,CL,1929,1942
+394,3,right,A09,skip,woman,man,animate ,399,4548,4788,M VCL-inv-stand-on-hand W body-run VCL-inv-skip-on-hand body-run BCL-approach-face 2H-GCL-approach-eo,546,BCL-approach-face,,body=body & CL,CL,4728,4738
+394,3,right,A10,run,man,woman,animate ,400,5004,5235,W VCL-inv-stand-on-hand M body-run VCL-inv-run-on-hand body-run BCL-approach-face GCL-approach-eo,551,BCL-approach-face,,body=body & CL,CL,5164,5177
+394,3,right,A12,tap,man,woman,animate ,402,6080,6338,M VCL-inv-stand-on-hand BCL-approach-face stand-pose W stand-pose M tap get-tapped ,555,BCL-approach-face,,body=body & CL,CL,6192,6198
+394,3,right,A13,walk,woman,man,animate ,403,6618,6857,M VCL-inv-stand-on-hand stand-pose W body-walk 2H-VCL-inv-approach-eo body-walk BCL-approach-face,561,BCL-approach-face,,body=body & CL,CL,6814,6826
+394,3,right,A14,jump,woman,man,animate,404,7084,7309,M VCL-inv-stand-on-hand VCL-inv-stand-on-hand W body-jump 2H-VCL-inv-jump-to-VCL BCL-face-face 2H-GCL-approach-eo BCL-approach-face,564,BCL-approach-face,,body=body & CL,CL,7285,7288
+394,3,right,A21,walk,man,woman,animate ,411,9721,9876,W VCL-inv-stand-on-hand M VCL-inv-walk-on-hand GCL-approach-face,575,GCL-approach-face,,body=body & CL,CL,9826,9848
+394,3,right,A28,cycle,man,woman,animate ,418,12474,12782,1 W VCL-inv-stand-on-hand M cycle VCL-inv-stand-on-hand cycle-to-VCL-inv cycle cycle-stop VCL-inv-stand-facing stand-pose GCL-appraoch-face,594,GCL-appraoch-face,,body=body & CL,CL,12750,12759
+394,3,right,A36,crawl,man,plant,inanimate,426,15583,15786,pot tree M IX-floor body-crawl tree body-crawl BCL-approach-face,615,BCL-approach-face,,body=body & CL,CL,15742,15756
+394,3,right,A01,hop,woman,man,animate ,391,661,872,1 M VCL-inv-stand-on-hand 1 W stand-pose VCL-inv-hop-on-hand BCL-approach-eo,523,VCL-inv-hop-on-hand,,CL,CL,788,808
+394,3,right,A01,hop,woman,man,animate ,391,661,872,1 M VCL-inv-stand-on-hand 1 W stand-pose VCL-inv-hop-on-hand BCL-approach-eo,524,BCL-approach-eo,,CL,CL,838,848
+394,3,right,A02,jump,man,woman,inanimate,392,1189,1415,chair chair-loc 1 M stand-pose body-jump VCL-inv-jump-on-hand chair VCL-inv-jump-to-chair ,527,VCL-inv-jump-on-hand,,CL,CL,1321,1345
+394,3,right,A02,jump,man,woman,inanimate,392,1189,1415,chair chair-loc 1 M stand-pose body-jump VCL-inv-jump-on-hand chair VCL-inv-jump-to-chair ,528,VCL-inv-jump-to-chair,,CL,CL,1381,1386
+394,3,right,A09,skip,woman,man,animate ,399,4548,4788,M VCL-inv-stand-on-hand W body-run VCL-inv-skip-on-hand body-run BCL-approach-face 2H-GCL-approach-eo,544,VCL-inv-skip-on-hand ,,CL,CL,4675,4700
+394,3,right,A09,skip,woman,man,animate ,399,4548,4788,M VCL-inv-stand-on-hand W body-run VCL-inv-skip-on-hand body-run BCL-approach-face 2H-GCL-approach-eo,547,2H-GCL-approach-eo,,CL,CL,4762,4766
+394,3,right,A10,run,man,woman,animate ,400,5004,5235,W VCL-inv-stand-on-hand M body-run VCL-inv-run-on-hand body-run BCL-approach-face GCL-approach-eo,549,VCL-inv-run-on-hand,,CL,CL,5131,5139
+394,3,right,A10,run,man,woman,animate ,400,5004,5235,W VCL-inv-stand-on-hand M body-run VCL-inv-run-on-hand body-run BCL-approach-face GCL-approach-eo,552,GCL-approach-eo,,CL,CL,5208,5214
+394,3,right,A13,walk,woman,man,animate ,403,6618,6857,M VCL-inv-stand-on-hand stand-pose W body-walk 2H-VCL-inv-approach-eo body-walk BCL-approach-face,559,2H-VCL-inv-approach-eo,,CL,CL,6755,6789
+394,3,right,A14,jump,woman,man,animate,404,7084,7309,M VCL-inv-stand-on-hand VCL-inv-stand-on-hand W body-jump 2H-VCL-inv-jump-to-VCL BCL-face-face 2H-GCL-approach-eo BCL-approach-face,563,2H-VCL-inv-jump-to-VCL ,,CL,CL,7224,7247
+394,3,right,A14,jump,woman,man,animate,404,7084,7309,M VCL-inv-stand-on-hand VCL-inv-stand-on-hand W body-jump 2H-VCL-inv-jump-to-VCL BCL-face-face 2H-GCL-approach-eo BCL-approach-face,563,2H-GCL-approach-eo,,CL,CL,7275,7280
+394,3,right,A21,walk,man,woman,animate ,411,9721,9876,W VCL-inv-stand-on-hand M VCL-inv-walk-on-hand GCL-approach-face,574,VCL-inv-walk-on-hand,,CL,CL,9797,9814
+394,3,right,A28,cycle,man,woman,animate ,418,12474,12782,1 W VCL-inv-stand-on-hand M cycle VCL-inv-stand-on-hand cycle-to-VCL-inv cycle cycle-stop VCL-inv-stand-facing stand-pose GCL-appraoch-face,591,cycle-to-VCL-inv,,CL,CL,12640,12658
+394,3,right,A30,punch,man,woman,animate ,420,13298,13495,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand 2H-GCL-approach-eo punch M punch W get-punched ,597,2H-GCL-approach-eo,,CL,CL,13399,13405
+394,3,right,A33,hop,man,chair,inanimate,423,14422,14627,chair M VCL-inv-stand-on-hand VCL-inv-hop-on-hand body-hop VCL-inv-hop chair VCL-inv-face-chair,605,VCL-inv-hop-on-hand,,CL,CL,14494,14515
+394,3,right,A33,hop,man,chair,inanimate,423,14422,14627,chair M VCL-inv-stand-on-hand VCL-inv-hop-on-hand body-hop VCL-inv-hop chair VCL-inv-face-chair,607,VCL-inv-hop,,CL,CL,14541,14570
+394,3,right,A34,run,woman,plant,inanimate,424,14800,15015,pot-init W VCL-inv-stand-on-hand pot tree W run body-run GCL-approach-tree,610,GCL-approach-tree,,CL & other,CL,14975,14986
+394,3,right,A08,throw ball,woman,plant,inanimate,398,4080,4329,1 W VCL-inv-stand-on-hand ball pot tree ball throw tree ball-fall-over-tree tree-wave,542,tree-wave,,hand=entity,other,4292,4313
+394,3,right,A24,roll ball,woman,chair,inanimate,414,10833,11066,chair W sit IX-legs legs-crossed ball roll chair ball-approach-chair,581,ball-approach-chair,,hand=entity & hand=entity,other,11012,11032
+394,3,right,A25,cycle,man,plant,inanimate,415,11282,11530,1 M cycle IX-front pot tree cycle cycle-stop cycle-approach-tree VCL-inv-stand-facing-tree ,585,cycle-approach-tree,,hand=entity & hand=entity,other,11460,11471
+394,3,right,A27,punch,woman,plant,inanimate,417,12053,12244,pot tree VCL-inv-stand-on-hand W punch punch-tree ,589,punch-tree,,hand=entity & hand=entity,other,12180,12206
+394,3,right,A04,roll ball,woman,man,animate ,394,2232,2469,table 1 M pose IX-L W ball roll-ball M receive ball,531,roll-ball ,,hand=hand,hand=hand,2396,2404
+394,3,right,A04,roll ball,woman,man,animate ,394,2232,2469,table 1 M pose IX-L W ball roll-ball M receive-ball,532,receive-ball,,hand=hand,hand=hand,2427,2436
+394,3,right,A05,throw confetti,woman,man,animate,395,2716,2961,1 M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand stand-pose W throw-confetti confetti-fall-over-body,533,throw-confetti ,,hand=hand,hand=hand,2905,2918
+394,3,right,A06,pull,man,woman,animate ,396,3208,3389,1 W VCL-inv-stand-on-hand M grab-pull get-pulled ,535,grab,,hand=hand,hand=hand,3328,3335
+394,3,right,A07,feed,woman,man,animate,397,3614,3871,table chair-L chair-R W M sit-pose W bowl scoop-food feed get-fed ,538,feed,,hand=hand,hand=hand,3811,3818
+394,3,right,A08,throw ball,woman,plant,inanimate,398,4080,4329,1 W VCL-inv-stand-on-hand ball pot tree ball throw tree ball-fall-over-tree tree-wave,540,throw,,hand=hand,hand=hand,4250,4260
+394,3,right,A11,pull,man,plant,inanimate,401,5427,5640,M VCL-inv-stand-on-hand pot tree grab pull-tree tree,553,grab,,hand=hand,hand=hand,5550,5566
+394,3,right,A12,tap,man,woman,animate ,402,6080,6338,M VCL-inv-stand-on-hand BCL-approach-face stand-pose tap-init W stand-pose M tap get-tapped ,556,tap,,hand=hand,hand=hand,6285,6291
+394,3,right,A16,throw ball,man,woman,animate ,406,7840,8040,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand M ball throw W catch,567,catch,,hand=hand,hand=hand,7988,8002
+394,3,right,A17,push,man,chair,inanimate,407,8244,8402,M VCL-inv-stand-on-hand IX-front chair M push ,568,push,,hand=hand,hand=hand,8355,8375
+394,3,right,A18,give ball,woman,man,animate ,408,8620,8802,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand  give M receive ,570,receive,,hand=hand,hand=hand,8757,8775
+394,3,right,A19,poke,man,woman,animate ,409,8994,9146,W VCL-inv-stand-on-hand stand-pose M VCL-inv-stand-on-hand poke get-poked ,571,poke,,hand=hand,hand=hand,9102,9109
+394,3,right,A20,tickle,man,chair,inanimate,410,9346,9515,M VCL-inv-stand-on-hand chair M tickle ,573,tickle,,hand=hand,hand=hand,9460,9495
+394,3,right,A22,poke,man,plant,inanimate,412,10088,10285,M VCL-inv-stand-on-hand pot tree M poke poke-tree,576,poke ,,hand=hand,hand=hand,10209,10222
+394,3,right,A23,throw confetti,woman,chair,inanimate,413,10474,10629,chair chair-loc W confetti throw confetti-fall,578,throw ,,hand=hand,hand=hand,10578,10585
+394,3,right,A24,roll ball,woman,chair,inanimate,414,10833,11066,chair W sit IX-legs legs-crossed ball roll chair ball-approach-chair,580,roll,,hand=hand,hand=hand,10966,10976
+394,3,right,A26,push,woman,man,animate,416,11716,11893,M VCL-inv-stand-on-hand IX-R VCL-inv-stand-on-hand W push get-pushed stand-pose,586,push,,hand=hand,hand=hand,11817,11824
+394,3,right,A27,punch,woman,plant,inanimate,417,12053,12244,pot tree VCL-inv-stand-on-hand W punch punch-tree ,588,punch,,hand=hand,hand=hand,12157,12168
+394,3,right,A30,punch,man,woman,animate ,420,13298,13495,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand 2H-GCL-approach-eo punch M punch W get-punched ,598,punch,,hand=hand,hand=hand,13424,13430
+394,3,right,A30,punch,man,woman,animate ,420,13298,13495,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand 2H-GCL-approach-eo punch M punch W get-punched ,599,punch,,hand=hand,hand=hand,13450,13456
+394,3,right,A31,feed,woman,chair,inanimate,421,13688,13845,1 W spoon scoop-food IX-front chair feed ,602,feed ,,hand=hand,hand=hand,13792,13816
+394,3,right,A32,tap,man,plant,inanimate,422,14032,14238,M VCL-inv-stand-on-hand pot tree M tap tree tap-tree tree,603,tap,,hand=hand,hand=hand,14164,14174
+394,3,right,A35,tickle,woman,man,animate ,425,15191,15378,1 M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand W tickle M get-tickled ,611,tickle ,,hand=hand,hand=hand,15305,15316
+394,3,right,A07,feed,woman,man,animate,397,3614,3871,table chair-L chair-R W M sit-pose W bowl scoop-food feed get-fed ,537,scoop-food,,hand=hand & hand=other,hand=hand,3805,3811
+394,3,right,A11,pull,man,plant,inanimate,401,5427,5640,M VCL-inv-stand-on-hand pot tree grab pull-tree tree,554,pull-tree,,hand=hand & hand=other,hand=hand,5578,5600
+394,3,right,A22,poke,man,plant,inanimate,412,10088,10285,M VCL-inv-stand-on-hand pot tree M poke poke-tree,577,poke-tree,,hand=hand & hand=other,hand=hand,10232,10258
+394,3,right,A31,feed,woman,chair,inanimate,421,13688,13845,1 W spoon scoop-food IX-front chair feed ,601,scoop-food,,hand=hand & hand=other,hand=hand,13734,13740
+394,3,right,A32,tap,man,plant,inanimate,422,14032,14238,M VCL-inv-stand-on-hand pot tree M tap tree tap-tree tree,604,tap-tree,,hand=hand & hand=other,hand=hand,14200,14211
+394,3,right,A15,give ball,woman,chair,inanimate,405,7499,7641,chair chair-loc W ball give,565,give,,OCL/HCL,CL,7593,7611
+394,3,right,A16,throw ball,man,woman,animate ,406,7840,8040,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand M ball throw W catch,566,throw ,,OCL/HCL,CL,7969,7976
+394,3,right,A18,give ball,woman,man,animate ,408,8620,8802,M VCL-inv-stand-on-hand W VCL-inv-stand-on-hand  give M receive ,569,give ,,OCL/HCL,CL,8715,8732
+410,3,right,A10,run,man,woman,animate ,327,4457,4614,IX-body M W GCL-approach-body IX-body M body-run 2H-GCL-approach-eo,390,GCL-approach-body,,body=body & CL,CL,4517,4522
+410,3,right,A01,hop,woman,man,animate ,318,422,673,W VCL-inv-stand-on-hand M GCL-front VCL-inv-stand-on-hand-back VCL-inv-stand-on-hand VCL-inv-hop-on-hand 2H-GCL-approach-eo BCL-approach-eo,366,VCL-inv-hop-on-hand,,CL,CL,574,621
+410,3,right,A01,hop,woman,man,animate ,318,422,673,W VCL-inv-stand-on-hand M GCL-front VCL-inv-stand-on-hand-back VCL-inv-stand-on-hand VCL-inv-hop-on-hand 2H-GCL-approach-eo BCL-approach-eo,367,2H-GCL-approach-eo,,CL,CL,630,639
+410,3,right,A01,hop,woman,man,animate ,318,422,673,W VCL-inv-stand-on-hand M GCL-front VCL-inv-stand-on-hand-back VCL-inv-stand-on-hand VCL-inv-hop-on-hand 2H-GCL-approach-eo BCL-approach-eo,368,BCL-approach-eo,,CL,CL,645,654
+410,3,right,A02,jump,man,woman,inanimate,319,906,1062,M VCL-inv-stand-on-hand chair VCL-inv-jump-to-chair ,369,VCL-inv-jump-to-chair ,,CL,CL,1018,1038
+410,3,right,A03,crawl,man,woman,animate ,320,1274,1497,W W chair M-R body-crawl BCL-approach,371,BCL-approach,,CL,CL,1463,1479
+410,3,right,A09,skip,woman,man,animate ,326,4093,4254,M GCL body IX-body W body-run 2H-GCL-approach-eo,389,2H-GCL-approach-eo,,CL,CL,4212,4234
+410,3,right,A10,run,man,woman,animate ,327,4457,4614,IX-body M W GCL-approach-body IX-body M body-run 2H-GCL-approach-eo,392,2H-GCL-approach-eo,,CL,CL,4584,4596
+410,3,right,A12,tap,man,woman,animate ,329,5181,5346,IX-body M BCL-approach-eo W BCL-approach-eo M tap W get-tapped ,394,BCL-approach-eo ,,CL,CL,5222,5226
+410,3,right,A13,walk,woman,man,animate ,330,5567,5708,W M 2H-GCL-stand 2H-GCL-approach-init IX-body W 2H-GCL-approach BCL-approach-eo ,397,2H-GCL-approach,,CL,CL,5654,5671
+410,3,right,A13,walk,woman,man,animate ,330,5567,5708,W M 2H-GCL-stand 2H-GCL-approach-init IX-body W 2H-GCL-approach BCL-approach-eo ,398,BCL-approach-eo ,,CL,CL,5682,5689
+410,3,right,A14,jump,woman,man,animate,331,5938,6092,W small VCL-inv-stand M GCL-front VCL-inv-approach-GCL,399,VCL-inv-approach-GCL,,CL,CL,6037,6064
+410,3,right,A21,walk,man,woman,animate ,338,8439,8558,M W GCL-approach-eo 2H-VCL-look-at-eo,410,GCL-approach-eo,,CL,CL,8512,8527
+410,3,right,A24,roll ball,woman,chair,inanimate,341,9462,9695,W sit W sit chair left? chair-loc ball roll-ball chair ball-approach-chair ,416,ball-approach-chair ,,CL,CL,9664,9677
+410,3,right,A25,cycle,man,plant,inanimate,342,9910,10148,M on-bike cycle IX-front tree cycle ride-to-CL tree cycle collide,419,ride-to-CL,,CL,CL,10066,10097
+410,3,right,A25,cycle,man,plant,inanimate,342,9910,10148,M on-bike cycle IX-front tree cycle ride-to-CL tree cycle collide,421,collide,,CL,CL,10126,10130
+410,3,right,A28,cycle,man,woman,animate ,345,11107,11330,W GCL-L cycle-init on-bike cycle 2H-GCL-approach-eo collide on-bike 2H-GCL-approach-eo,427,2H-GCL-approach-eo ,,CL,CL,11231,11253
+410,3,right,A28,cycle,man,woman,animate ,345,11107,11330,W GCL-L cycle-init on-bike cycle 2H-GCL-approach-eo collide on-bike 2H-GCL-approach-eo,428,collide ,,CL,CL,11262,11267
+410,3,right,A28,cycle,man,woman,animate ,345,11107,11330,W GCL-L cycle-init on-bike cycle 2H-GCL-approach-eo collide on-bike W 2H-GCL-approach-eo,429,2H-GCL-approach-eo,,CL,CL,11300,11309
+410,3,right,A29,skip,woman,chair,inanimate,346,11527,11713,W chair chair-loc W body-skip VCL-inv-skip-on-hand VCL-approach-GCL chair,432,VCL-inv-skip-on-hand,,CL,CL,11646,11652
+410,3,right,A29,skip,woman,chair,inanimate,346,11527,11713,W chair chair-loc W body-skip VCL-inv-skip-on-hand VCL-approach-GCL chair,433,VCL-approach-GCL,,CL,CL,11661,11673
+410,3,right,A33,hop,man,chair,inanimate,350,12993,13127,chair IX-body M VCL-inv-hop-on-hand chair,439,VCL-inv-hop-on-hand,,CL,CL,13052,13085
+410,3,right,A36,crawl,man,plant,inanimate,353,14016,14176,pot tree M body-crawl 2H-GCL-approach-eo,446,2H-GCL-approach-eo,,CL,CL,14140,14158
+410,3,right,A04,roll ball,woman,man,animate ,321,1721,1999,table IX-body W W ball hold-ball ball-go ball-go-path M hand-ready path-to-hand receive-ball,376,receive-ball,,hand=hand,hand=hand,1957,1980
+410,3,right,A05,throw confetti,woman,man,animate,322,2237,2434,W W hold-object confetti IX-object throw-confetti fall M confetti-fall-over-body,377,throw,,hand=hand,hand=hand,2357,2368
+410,3,right,A06,pull,man,woman,animate ,323,2661,2922,M GCL-front W W stand-pose M grab pull W get-pulled,380,grab,,hand=hand,hand=hand,2821,2844
+410,3,right,A06,pull,man,woman,animate ,323,2661,2922,M GCL-front W W stand-pose M grab pull W get-pulled,381,pull,,hand=hand,hand=hand,2844,2854
+410,3,right,A07,feed,woman,man,animate,324,3139,3426,W table chair table M 2H-VCL-inv-sit-facing W bowl scoop feed M get-fed,384,feed,,hand=hand,hand=hand,3340,3360
+410,3,right,A08,throw ball,woman,plant,inanimate,325,3650,3870,pot pot-loc tree pot W throw tree ball-path-past-tree ,386,throw,,hand=hand,hand=hand,3784,3793
+410,3,right,A12,tap,man,woman,animate ,329,5181,5346,IX-body M BCL-approach-eo W BCL stand-eo M tap W get-tapped ,395,tap,,hand=hand,hand=hand,5288,5305
+410,3,right,A16,throw ball,man,woman,animate ,333,6694,6842,M W GCL-face-eo M throw-ball W receive-ball ,401,throw-ball,,hand=hand,hand=hand,6780,6787
+410,3,right,A16,throw ball,man,woman,animate ,333,6694,6842,M W GCL-face-eo M throw-ball W receive-ball ,402,receive-ball,,hand=hand,hand=hand,6803,6810
+410,3,right,A17,push,man,chair,inanimate,334,7039,7184,M M chair M chair push ,403,push ,,hand=hand,hand=hand,7150,7172
+410,3,right,A19,poke,man,woman,animate ,336,7795,7920,IX-body M W 2H-GCL-face-eo poke W get-poked ,407,poke,,hand=hand,hand=hand,7867,7874
+410,3,right,A20,tickle,man,chair,inanimate,337,8140,8239,M chair tickle ,409,tickle ,,hand=hand,hand=hand,8200,8228
+410,3,right,A23,throw confetti,woman,chair,inanimate,340,9130,9264,W chair throw chair confett-fall-over-chair,413,throw,,hand=hand,hand=hand,9197,9208
+410,3,right,A24,roll ball,woman,chair,inanimate,341,9462,9695,W sit W sit chair left? chair-loc ball roll-ball chair ball-approach-chair ,415,roll-ball,,hand=hand,hand=hand,9628,9635
+410,3,right,A26,push,woman,man,animate,343,10341,10484,W M GCL-face-eo W push M get-pushed ,422,push,,hand=hand,hand=hand,10426,10435
+410,3,right,A30,punch,man,woman,animate ,347,11889,12068,M W 2H-GCL-face-eo M punch W get-punched,434,punch,,hand=hand,hand=hand,11993,12002
+410,3,right,A31,feed,woman,chair,inanimate,348,12276,12457,W bowl chair-front stir-food scoop feed chair ,437,feed,,hand=hand,hand=hand,12400,12415
+410,3,right,A35,tickle,woman,man,animate ,352,13645,13797,W 2H-GCL-next-to-eo M 2H-GCL-face-eo tickle M get-tickled ,443,tickle,,hand=hand,hand=hand,13730,13744
+410,3,right,A07,feed,woman,man,animate,324,3139,3426,W table chair table M 2H-VCL-inv-sit-facing W bowl scoop feed M get-fed,383,scoop,,hand=hand & hand=other,hand=hand,3332,3340
+410,3,right,A11,pull,man,plant,inanimate,328,4827,4979,pot tree IX-body M tree pull-tree ,393,pull-tree ,,hand=hand & hand=other,hand=hand,4946,4960
+410,3,right,A22,poke,man,plant,inanimate,339,8770,8959,M pot pot-loc tree M tree poke-tree-tree-bend,411,poke-tree-tree-bend,,hand=hand & hand=other,hand=hand,8918,8947
+410,3,right,A27,punch,woman,plant,inanimate,344,10702,10863,W pot tree W tree punch-tree-tree-bend-forward ,424,punch-tree-tree-bend-forward ,,hand=hand & hand=other,hand=hand,10823,10848
+410,3,right,A31,feed,woman,chair,inanimate,348,12276,12457,W bowl chair-front stir-food scoop feed chair ,436,stir-food,,hand=hand & hand=other,hand=hand,12380,12394
+410,3,right,A31,feed,woman,chair,inanimate,348,12276,12457,W bowl chair-front stir-food scoop feed chair ,436.5,scoop,,hand=hand & hand=other,hand=hand,12395,12400
+410,3,right,A32,tap,man,plant,inanimate,349,12640,12773,pot tree M tree tap-tree ,438,tap-tree ,,hand=hand & hand=other,hand=hand,12743,12760
+410,3,right,A34,run,woman,plant,inanimate,351,13308,13463,pot tree W body-run GCL-approach-tree ,441,GCL-approach-tree,,hand=hand & hand=other,hand=hand,13425,13433
+410,3,right,A35,tickle,woman,man,animate ,352,13645,13797,W 2H-GCL-next-to-eo M 2H-GCL-face-eo tickle M get-tickled ,442,2H-GCL-next-to-eo,,hand=hand & hand=other,hand=hand,13686,13692
+410,3,right,A15,give ball,woman,chair,inanimate,332,6293,6477,IX-front? chair W ball give-ball chair hold-ball,400,give-ball,,OCL/HCL,CL,6393,6425
+410,3,right,A18,give ball,woman,man,animate ,335,7416,7571,W M 2H-GCL-face-eo ball give-ball receive-ball M receive-ball ,404,give-ball,,OCL/HCL,CL,7489,7497
+410,3,right,A18,give ball,woman,man,animate ,335,7416,7571,W M 2H-GCL-face-eo ball give-ball receive-ball M receive-ball ,405,receive-ball,,OCL/HCL,CL,7513,7527
+410,3,right,A18,give ball,woman,man,animate ,335,7416,7571,W M 2H-GCL-face-eo ball give-ball receive-ball M receive-ball ,406,receive-ball,,OCL/HCL,CL,7542,7554
+420,3,right,A01,hop,woman,man,animate ,354,1005,1169,M VCL-inv-stand-on-hand 1 W VCL-inv-stand-forward VCL-inv-hop-backwards BCL-approach-eo,447,VCL-inv-hop-backwards ,,CL,CL,1099,1107
+420,3,right,A01,hop,woman,man,animate ,354,1005,1169,M VCL-inv-stand-on-hand 1 W VCL-inv-stand-forward VCL-inv-hop-backwards BCL-approach-eo,448,BCL-approach-eo,,CL,CL,1122,1133
+420,3,right,A02,jump,man,woman,inanimate,355,1368,1507,M VCL-inv-stand-on-hand and-then chair chair-loc M VCL-inv-hop-on-hand ,449,VCL-inv-hop-on-hand ,,CL,CL,1453,1471
+420,3,right,A03,crawl,man,woman,animate ,356,1706,1852,W sit-crossed VCL-inv-bent-sit-front M body-crawl BCL-approach-eo,451,BCL-approach-eo,,CL,CL,1810,1825
+420,3,right,A09,skip,woman,man,animate ,362,3873,4035,M GCL W VCL-inv-skip-on-hand 2H-GCL-approach-eo 2H-BCL-approach-eo,465,VCL-inv-skip-on-hand ,,CL,CL,3945,3968
+420,3,right,A09,skip,woman,man,animate ,362,3873,4035,M GCL W VCL-inv-skip-on-hand 2H-GCL-approach-eo 2H-BCL-approach-eo,466,2H-GCL-approach-eo,,CL,CL,3983,3988
+420,3,right,A09,skip,woman,man,animate ,362,3873,4035,M GCL W VCL-inv-skip-on-hand 2H-GCL-approach-eo 2H-BCL-approach-eo,467,2H-BCL-approach-eo,,CL,CL,3996,4003
+420,3,right,A10,run,man,woman,animate ,363,4251,4387,GCL-front W M body-run run 2H-GCL-approach-eo,470,2H-GCL-approach-eo,,CL,CL,4340,4354
+420,3,right,A13,walk,woman,man,animate ,366,5190,5321,M GCL-front W VCL-inv-walk-to-GCL 2H-GCL-init 2H-BCL-approach-eo,475,VCL-inv-walk-to-GCL,,CL,CL,5249,5269
+420,3,right,A13,walk,woman,man,animate ,366,5190,5321,M GCL-front W VCL-inv-walk-to-GCL 2H-GCL-init 2H-BCL-approach-eo,476,2H-BCL-approach-eo,,CL,CL,5288,5297
+420,3,right,A14,jump,woman,man,animate,367,5514,5662,M GCL W VCL-inv-jump-on-hand VCL-jump-to-GCL 2H-BCL-approach-eo,477,VCL-inv-jump-on-hand,,CL,CL,5587,5601
+420,3,right,A14,jump,woman,man,animate,367,5514,5662,M GCL W VCL-inv-jump-on-hand VCL-jump-to-GCL 2H-BCL-approach-eo,478,VCL-jump-to-GCL,,CL,CL,5608,5617
+420,3,right,A14,jump,woman,man,animate,367,5514,5662,M GCL W VCL-inv-jump-on-hand VCL-jump-to-GCL 2H-BCL-approach-eo,479,2H-BCL-approach-eo,,CL,CL,5625,5634
+420,3,right,A17,push,man,chair,inanimate,370,6517,6631,chair chair-loc M chair-loc BCL-approach-chair chair-move ,484,chair-move ,,CL,CL,6590,6599
+420,3,right,A21,walk,man,woman,animate ,374,8145,8296,W VCL-inv-stand-on-hand M VCL-walk-GCL 2H-BCL-approach-eo,492,VCL-walk-GCL,,CL,CL,8224,8239
+420,3,right,A21,walk,man,woman,animate ,374,8145,8296,W VCL-inv-stand-on-hand M VCL-walk-GCL 2H-BCL-approach-eo,493,2H-BCL-approach-eo,,CL,CL,8252,8268
+420,3,right,A24,roll ball,woman,chair,inanimate,377,9090,9262,chair chair-loc W sit-crossed-legs throw ball-approach-hit-chair ,498,ball-approach-hit-chair ,,CL,CL,9208,9232
+420,3,right,A28,cycle,man,woman,animate ,381,10518,10683,W VCL-inv-stand-on-hand GCL-front M cycle 2H-BCL-approach-eo cycle-stop,505,2H-BCL-approach-eo,,CL,CL,10622,10633
+420,3,right,A33,hop,man,chair,inanimate,387,12703,12846,chair chair-loc M VCL-inv-hop-on-hand VCL-inv-hop-to-chair,514,VCL-inv-hop-on-hand,,CL,CL,12769,12780
+420,3,right,A25,cycle,man,plant,inanimate,378,9485,9678,tree M cycle tree VCL-inv-bent-approach-tree,500,VCL-inv-bent-approach-tree,,CL & other,CL,9622,9645
+420,3,right,A29,skip,woman,chair,inanimate,382,10872,11010,chair chair-loc W VCL-inv-skip-to-chair,507,VCL-inv-skip-to-chair,,CL & other,CL,10925,10980
+420,3,right,A33,hop,man,chair,inanimate,387,12703,12846,chair chair-loc M VCL-inv-hop-on-hand VCL-inv-hop-to-chair,515,VCL-inv-hop-to-chair,,CL & other,CL,12795,12815
+420,3,right,A34,run,woman,plant,inanimate,388,13010,13166,pot tree W body-run run GCL-approach-tree,518,GCL-approach-tree,,CL & other,CL,13120,13132
+420,3,right,A08,throw ball,woman,plant,inanimate,361,3482,3644,pot tree W ball throw tree ball-fly-over-tree ,464,ball-fly-over-tree,,hand=entity & hand=entity,other,3597,3613
+420,3,right,A04,roll ball,woman,man,animate ,357,2066,2236,table W 1 M 2H-GCL-face-eo throw ball-go M receive-ball ,452,throw,,hand=hand,hand=hand,2166,2172
+420,3,right,A04,roll ball,woman,man,animate ,357,2066,2236,table W 1 M 2H-GCL-face-eo throw ball-go M receive-ball ,454,receive-ball ,,hand=hand,hand=hand,2202,2214
+420,3,right,A05,throw confetti,woman,man,animate,358,2442,2600,M GCL-front W 2H-GCL-face-eo W throw confetti-fall-over-body,455,throw ,,hand=hand,hand=hand,2542,2548
+420,3,right,A06,pull,man,woman,animate ,359,2798,2946,W 1 M grab pull get-pulled ,457,grab,,hand=hand,hand=hand,2871,2884
+420,3,right,A08,throw ball,woman,plant,inanimate,361,3482,3644,pot tree W ball throw tree ball-fly-over-tree ,463,throw ,,hand=hand,hand=hand,3568,3580
+420,3,right,A16,throw ball,man,woman,animate ,369,6180,6316,W VCL-inv-stand-on-hand M throw W catch ,481,throw ,,hand=hand,hand=hand,6249,6258
+420,3,right,A16,throw ball,man,woman,animate ,369,6180,6316,W VCL-inv-stand-on-hand M throw W catch ,482,catch,,hand=hand,hand=hand,6274,6283
+420,3,right,A18,give ball,woman,man,animate ,371,6844,6997,W hold-ball M GCL-front give-ball-to-GCL receive-ball ,486,receive-ball ,,hand=hand,hand=hand,6945,6965
+420,3,right,A20,tickle,man,chair,inanimate,373,7822,7947,chair-front M chair-front tickle tickle-chair tickle-chair ,489,tickle,,hand=hand,hand=hand,7884,7891
+420,3,right,A23,throw confetti,woman,chair,inanimate,376,8739,8901,chair chair-loc W confetti throw fall-over-chair,495,throw,,hand=hand,hand=hand,8826,8836
+420,3,right,A24,roll ball,woman,chair,inanimate,377,9090,9262,chair chair-loc W sit-crossed-legs throw ball-approach-hit-chair ,497,throw,,hand=hand,hand=hand,9186,9194
+420,3,right,A26,push,woman,man,animate,379,9849,9964,W GCL M stand-pose W push get-pushed,501,push,,hand=hand,hand=hand,9926,9938
+420,3,right,A31,feed,woman,chair,inanimate,384,11470,11611,chair chair-loc W bowl IX-LH bowl scoop feed chair,511,feed,,hand=hand,hand=hand,11563,11572
+420,3,right,A35,tickle,woman,man,animate ,389,13317,13453,M GCL-front IX-body W tickle IX-to-GCL get-tickled ,519,tickle,,hand=hand,hand=hand,13389,13397
+420,3,right,A15,give ball,woman,chair,inanimate,368,5847,5988,chair chair-loc W ball give-ball-to-chair ,480,give-ball-to-chair ,,hand=hand & CL,CL,5930,5951
+420,3,right,A17,push,man,chair,inanimate,370,6517,6631,chair chair-loc M chair-loc BCL-approach-chair chair-move ,483,BCL-approach-chair,,hand=hand & CL,CL,6575,6585
+420,3,right,A18,give ball,woman,man,animate ,371,6844,6997,W hold-ball M GCL-front give-ball-to-GCL receive-ball ,485,give-ball-to-GCL,,hand=hand & CL,CL,6925,6937
+420,3,right,A19,poke,man,woman,animate ,372,7154,7281,W GCL M poke-GCL get-poked ,487,poke-GCL,,hand=hand & CL,CL,7220,7234
+420,3,right,A30,punch,man,woman,animate ,383,11166,11289,W VCL-inv-stand-on-hand M 2H-GCL-facing punch-GCL get-punched stand-pose,508,punch-GCL,,hand=hand & CL,CL,11244,11251
+420,3,right,A06,pull,man,woman,animate ,359,2798,2946,W 1 M grab pull get-pulled ,458,pull,,hand=hand & hand=hand,hand=hand,2884,2888
+420,3,right,A07,feed,woman,man,animate,360,3123,3281,table W bowl scoop-food M VCL-inv-bent-sit-front scoop get-fed ,460,scoop-food,,hand=hand & hand=other,hand=hand,3178,3185
+420,3,right,A07,feed,woman,man,animate,360,3123,3281,table W bowl scoop-food M VCL-inv-bent-sit-front scoop get-fed ,461,scoop,,hand=hand & hand=other,hand=hand,3216,3228
+420,3,right,A11,pull,man,plant,inanimate,364,4562,4702,pot tree M tree grab pull tree-shake ,471,grab,,hand=hand & hand=other,hand=hand,4653,4659
+420,3,right,A11,pull,man,plant,inanimate,364,4562,4702,pot tree M tree grab pull tree-shake ,472,pull,,hand=hand & hand=other,hand=hand,4659,4679
+420,3,right,A20,tickle,man,chair,inanimate,373,7822,7947,chair-front M chair-front tickle tickle-chair tickle-chair ,490,tickle-chair,,hand=hand & hand=other,hand=hand,7897,7902
+420,3,right,A20,tickle,man,chair,inanimate,373,7822,7947,chair-front M chair-front tickle tickle-chair tickle-chair ,491,tickle-chair,,hand=hand & hand=other,hand=hand,7910,7921
+420,3,right,A22,poke,man,plant,inanimate,375,8460,8587,tree M GCL push-tree ,494,push-tree ,,hand=hand & hand=other,hand=hand,8536,8550
+420,3,right,A27,punch,woman,plant,inanimate,380,10153,10285,pot tree W tree? tree punch-tree,503,punch-tree,,hand=hand & hand=other,hand=hand,10244,10254
+420,3,right,A31,feed,woman,chair,inanimate,384,11470,11611,chair chair-loc W bowl IX-LH bowl scoop feed chair,510,scoop,,hand=hand & hand=other,hand=hand,11552,11563
+420,3,right,A32,tap,man,plant,inanimate,385,11758,11901,pot tree M GCL tap-tree,512,tap-tree,,hand=hand & hand=other,hand=hand,11855,11873
+420,3,right,A32,tap,man,plant,inanimate,386,12248,12405,pot tree M GCL tap-tree,513,tap-tree,,hand=hand & hand=other,hand=hand,12351,12363
+736,4,question,B17,crawl,man,plant,inanimate,53,6041,6186,M on-knees body-hand-and-knees IX-front tree body-crawl B-approach-eo tree tree-approach-face ,105, tree-approach-face ,yes,body=body & CL,CL,6160,6165
+736,4,question,B02,jump,man,chair,inanimate,38,949,1074,chair IX-R M VCL-inv-stand-on-hand VCL-inv-jump-on-hand,88,VCL-inv-jump-on-hand,yes,CL,CL,1018,1045
+736,4,question,B04,run,man,woman,animate ,40,1673,1812,M IX-front(?) VCL-inv-stand W IX-body body-run B-approach-eo,88.4,B-approach-eo,yes,CL,CL,1780,1790
+736,4,question,B07,crawl,man,woman,animate ,43,2673,2841,W IX-legs cross-legs M body-crawl B-approach-eo,88.9,B-approach-eo,yes,CL,CL,2808,2820
+736,4,question,B08,skip,woman,man,animate,44,3043,3181,M VCL-inv-stand-on-hand IX-front W VCL-inv-stand VCL-inv-skip-on-hand B-approach-eo,89,VCL-inv-skip-on-hand,,CL,CL,3125,3143
+736,4,question,B08,skip,woman,man,animate,44,3043,3181,M VCL-inv-stand-on-hand IX-front W VCL-inv-stand VCL-inv-skip-on-hand B-approach-eo,90,B-approach-eo,yes,CL,CL,3151,3161
+736,4,question,B10,walk,woman,plant,inanimate,46,3795,3926,tree IX-body W VCL-inv-walk-on-hand tree B-approach-eo,93,VCL-inv-walk-on-hand,yes,CL,CL,3865,3880
+736,4,question,B10,walk,woman,plant,inanimate,46,3795,3926,tree IX-body W VCL-inv-walk-on-hand tree B-approach-eo,94,B-approach-eo,yes,CL,CL,3906,3911
+736,4,question,B12,skip,woman,chair,inanimate,48,4453,4593,chair IX-R VCL-inv-stand W VCL-inv-skip-on-arm chair close-to,97,VCL-inv-skip-on-arm,yes,CL,CL,4521,4546
+736,4,question,B15,hop,woman,man,animate ,51,5369,5497,VCL-inv-stand-on-hand M IX-front VCL-inv-stand W VCL-inv-hop-on-arm M B-approach-eo,99,VCL-inv-hop-on-arm,yes,CL,CL,5435,5455
+736,4,question,B15,hop,woman,man,animate ,51,5369,5497,VCL-inv-stand-on-hand M IX-front VCL-inv-stand W VCL-inv-hop-on-arm M B-approach-eo,100,B-approach-eo,yes,CL,CL,5473,5481
+736,4,question,B17,crawl,man,plant,inanimate,53,6041,6186,M on-knees body-hand-and-knees IX-front tree body-crawl B-approach-eo tree tree-approach-face ,104, B-approach-eo,yes,CL,CL,6146,6151
+736,4,question,B19,hop,man,chair,inanimate,55,6704,6833,chair-L VCL-inv-stand-R M VCL-inv-stand-R VCL-inv-hop-on-arm close-to chair ,107,VCL-inv-hop-on-arm,,CL,CL,6758,6785
+736,4,question,B23,cycle,man,woman,animate ,59,8082,8296,VCL-inv-stand-on-hand W IX-front M cycle GCL-approach-eo cycle on-bike W GCL GCL-approach-GCL,115,GCL-approach-eo,,CL,CL,8171,8186
+736,4,question,B23,cycle,man,woman,animate ,59,8082,8296,VCL-inv-stand-on-hand W IX-front M cycle GCL-approach-eo cycle on-bike W GCL GCL-approach-GCL,116.5,GCL-approach-GCL,,CL,CL,8267,8277
+736,4,question,B24,jump,woman,man,animate ,60,8544,8683,M VCL-inv-stand-on-hand IX-front W VCL-inv-hop-on-hand B-approach-eo M,117,VCL-inv-hop-on-hand,,CL,CL,8612,8627
+736,4,question,B24,jump,woman,man,animate ,60,8544,8683,M VCL-inv-stand-on-hand IX-front W VCL-inv-hop-on-hand B-approach-eo M,118,B-approach-eo,,CL,CL,8637,8646
+736,4,question,B26,walk,man,woman,animate ,62,9291,9453,VCL-inv-stand W IX-front M VCL-inv-walk-on-hand GCL-approach-eo B-approach-eo,120,VCL-inv-walk-on-hand,,CL,CL,9382,9396
+736,4,question,B26,walk,man,woman,animate ,62,9291,9453,VCL-inv-stand W IX-front M VCL-inv-walk-on-hand GCL-approach-eo B-approach-eo,121,GCL-approach-eo,,CL,CL,9409,9417
+736,4,question,B26,walk,man,woman,animate ,62,9291,9453,VCL-inv-stand W IX-front M VCL-inv-walk-on-hand GCL-approach-eo B-approach-eo,122,B-approach-eo,,CL,CL,9428,9433
+736,4,question,B32,cycle,man,plant,inanimate,68,11431,11539,tree IX-body cycle on-bike-move ,131.5,on-bike-move,,CL,CL,11501,11517
+736,4,question,B30,run,plant,woman,inanimate,66,10731,10863,IX-body-init tree IX-in-front-body W VCL-inv-walk-on-hand tree tree-approach-face ,128,tree-approach-face,,hand=entity,other,10834,10844
+736,4,question,B03,push,man,woman,animate ,39,1298,1453,M VCL-inv-stand-on-hand IX-front W VCL-inv-stand-on-hand IX-body M punch get-punched ,88.1,punch,yes,hand=hand,hand=hand,1403,1413
+736,4,question,B05,pull,man,plant,inanimate,41,2033,2160,M VCL-inv-stand-on-hand IX-front tree move-hand-to-tree pull-tree,88.5,move-hand-to-tree,yes,hand=hand,hand=hand,2112,2127
+736,4,question,B09,roll ball,woman,man,animate ,45,3367,3579,table VCL-inv-stand W VCL-inv-stand-front M ball W roll-ball M receive-ball hold-ball,92,receive-ball,yes,hand=hand,hand=hand,3530,3547
+736,4,question,B11,throw ball,man,woman,animate,47,4139,4282,M ball IX-front W IX-body ball throw-ball W receive-ball ,95,throw-ball,yes,hand=hand,hand=hand,4225,4235
+736,4,question,B11,throw ball,man,woman,animate,47,4139,4282,M ball IX-front W IX-body ball throw-ball W receive-ball ,96,receive-ball ,yes,hand=hand,hand=hand,4248,4264
+736,4,question,B13,tickle,man,chair,inanimate,49,4765,4889,chair IX-R M chair-L tickle,97.5,tickle,,hand=hand,hand=hand,4849,4872
+736,4,question,B16,throw confetti,woman,chair,inanimate,52,5684,5806,chair IX-body W hold throw chair confetti-fall ,101,throw,yes,hand=hand,hand=hand,5753,5760
+736,4,question,B20,throw ball,woman,plant,inanimate,56,7041,7164,tree IX-body W ball throw-ball tree go-over-tree ,108,throw-ball,,hand=hand,hand=hand,7089,7107
+736,4,question,B21,throw confetti,woman,man,animate ,57,7356,7487,M VCL-inv-stand-on-hand 2H-IX-body W hold throw W M confetti-fall-over-body ,109,throw ,,hand=hand,hand=hand,7431,7438
+736,4,question,B22,poke,man,woman,animate ,58,7694,7821,M VCL-inv-stand-on-hand IX-front W IX-body M poke get-poked W,112,poke ,,hand=hand,hand=hand,7773,7774
+736,4,question,B25,roll ball,woman,chair,inanimate,61,8886,9071,IX-body sit-init IX-front W sit cross-legs IX-front chair ball roll ,119,roll ,,hand=hand,hand=hand,9037,9053
+736,4,question,B27,feed,woman,chair,inanimate,63,9684,9834,W IX-in-front-body stir-food IX-front chair scoop-food feed,124,feed,?,hand=hand,hand=hand,9795,9812
+736,4,question,B33,push,man,chair,inanimate,69,11752,11844,M IX-front chair push,132,push,,hand=hand,hand=hand,11806,11825
+736,4,question,B34,feed,woman,man,animate ,70,12016,12178,table W IX-in-front-body IX-front M W scoop-food feed get-fed ,134.5,feed,,hand=hand,hand=hand,12125,12140
+736,4,question,B36,punch,woman,plant,inanimate,73,13827,13949,W IX-front tree IX-body punch punch-tree ,138.5,punch,,hand=hand,hand=hand,13893,13905
+736,4,question,B28,pull,man,woman,animate ,64,10067,10198,M VCL-inv-stand-on-hand IX-front W M grab get-pulled  ,125,grab,,hand=hand & body=body,hand=hand,10145,10158
+736,4,question,B05,pull,man,plant,inanimate,41,2033,2160,M VCL-inv-stand-on-hand IX-front tree move-hand-to-tree pull-tree,88.6,pull-tree,yes,hand=hand & hand=other,hand=hand,2127,2139
+736,4,question,B27,feed,woman,chair,inanimate,63,9684,9834,W IX-front-of-body stir-food IX-front chair scoop-food feed,123,scoop-food,?,hand=hand & hand=other,hand=hand,9780,9792
+736,4,question,B31,tap,man,plant,inanimate,67,11066,11173,M VCL-inv-stand-on-hand IX-front tree tap-tree ,129,tap-tree ,,hand=hand & hand=other,hand=hand,11144,11159
+736,4,question,B34,feed,woman,man,animate ,70,12016,12178,table W IX-in-front-body IX-front M W scoop-food feed get-fed ,133.5,scoop-food,,hand=hand & hand=other,hand=hand,12118,12123
+736,4,question,B35,tap,man,plant,inanimate,71,12339,12440,M IX-front tree poke-tree ,136.5,poke-tree,,hand=hand & hand=other,hand=hand,12395,12416
+736,4,question,B35,tap,man,plant,inanimate,72,13523,13643,M IX-in-front-body IX-front tree IX-body poke-tree ,137.5,poke-tree,,hand=hand & hand=other,hand=hand,13599,13628
+736,4,question,B36,punch,woman,plant,inanimate,73,13827,13949,W IX-front tree IX-body punch punch-tree ,139.5,punch-tree,,hand=hand & hand=other,hand=hand,13916,13926
+736,4,question,B01,give ball,woman,man,animate ,37,521,731,IX-front M VCL-inv-stand-on-hand IX-front W VCL-inv-stand-on-hand W hold-ball give-ball M receive-ball,86,give-ball,yes,OCL/HCL,CL,668,680
+736,4,question,B01,give ball,woman,man,animate ,37,521,731,IX-front M VCL-inv-stand-on-hand IX-front W VCL-inv-stand-on-hand W hold-ball give-ball M receive-ball,87, receive-ball,yes,OCL/HCL,CL,696,711
+736,4,question,B29,give ball,woman,chair,inanimate,65,10408,10516,W VCL-inv-stand-on-hand ball sit ball ball-give ,127,ball-give,,OCL/HCL,CL,10476,10493
